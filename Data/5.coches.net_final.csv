@@ -1,0 +1,1633 @@
+marca,modelo,precio,año,kilometros,combustible,transmision,potencia,fuente,carroceria
+ford,transit,18600.0,2023,49800.0,hibrido,manual,175,coches.net,furgoneta
+toyota,proace city,17200.0,2021,100200.0,diesel,automatica,100,coches.net,furgoneta
+ford,transit,18300.0,2022,57200.0,diesel,manual,130,coches.net,furgoneta
+opel,combo,15600.0,2021,85200.0,diesel,manual,110,coches.net,furgoneta
+volkswagen,transporter,15600.0,2022,58900.0,diesel,manual,110,coches.net,furgoneta
+opel,vivaro,18800.0,2023,51800.0,diesel,automatica,105,coches.net,furgoneta
+fiat,doblo cargo,17400.0,2021,101700.0,diesel,manual,105,coches.net,furgoneta
+nissan,nv400,19300.0,2022,96100.0,electrico,manual,140,coches.net,furgoneta
+peugeot,boxer,16300.0,2022,70500.0,diesel,manual,135,coches.net,furgoneta
+mercedes-benz,vito,18300.0,2022,79800.0,diesel,manual,102,coches.net,furgoneta
+ford,transit courier,17600.0,2023,37400.0,gasolina,manual,75,coches.net,furgoneta
+nissan,nv400,18500.0,2022,67400.0,diesel,manual,140,coches.net,furgoneta
+toyota,proace city,17800.0,2023,45900.0,diesel,automatica,100,coches.net,furgoneta
+iveco,daily,16800.0,2022,92700.0,diesel,automatica,102,coches.net,furgoneta
+nissan,nv400,14800.0,2022,58400.0,diesel,automatica,145,coches.net,furgoneta
+mercedes-benz,vito,17000.0,2021,91400.0,diesel,manual,100,coches.net,furgoneta
+renault,master,17500.0,2021,65700.0,diesel,manual,180,coches.net,furgoneta
+iveco,daily,11900.0,2020,96000.0,diesel,manual,140,coches.net,furgoneta
+toyota,proace,18100.0,2021,104700.0,diesel,manual,120,coches.net,furgoneta
+fiat,scudo,17900.0,2024,23400.0,diesel,manual,125,coches.net,furgoneta
+peugeot,boxer,14200.0,2021,111300.0,diesel,manual,125,coches.net,furgoneta
+volkswagen,caddy,16700.0,2023,36900.0,gasolina,manual,109,coches.net,furgoneta
+toyota,proace,16800.0,2023,40600.0,diesel,manual,115,coches.net,furgoneta
+opel,vivaro,19900.0,2024,19200.0,gasolina,manual,180,coches.net,furgoneta
+toyota,proace,17400.0,2023,53200.0,diesel,manual,150,coches.net,furgoneta
+ford,transit connect,19100.0,2020,63600.0,diesel,manual,120,coches.net,furgoneta
+ford,transit connect,19900.0,2021,94500.0,diesel,manual,125,coches.net,furgoneta
+volkswagen,transporter,13200.0,2022,69600.0,diesel,manual,107,coches.net,furgoneta
+nissan,nv400,19100.0,2022,70200.0,hibrido,manual,140,coches.net,furgoneta
+fiat,scudo,18500.0,2021,92800.0,diesel,manual,145,coches.net,furgoneta
+citroën,jumper,15100.0,2021,91800.0,diesel,manual,165,coches.net,furgoneta
+opel,vivaro,15900.0,2022,69800.0,diesel,manual,100,coches.net,furgoneta
+ford,transit connect,14600.0,2020,104900.0,diesel,manual,120,coches.net,furgoneta
+renault,trafic,15000.0,2020,102600.0,diesel,manual,90,coches.net,furgoneta
+fiat,scudo,13200.0,2022,72500.0,diesel,manual,150,coches.net,furgoneta
+nissan,nv400,17400.0,2020,111900.0,electrico,manual,115,coches.net,furgoneta
+maxus,deliver 9,14000.0,2021,94000.0,electrico,automatica,150,coches.net,furgoneta
+ford,transit,14800.0,2020,113300.0,diesel,automatica,135,coches.net,furgoneta
+renault,master,14000.0,2021,83900.0,diesel,manual,145,coches.net,furgoneta
+man,tge,18000.0,2022,89700.0,diesel,manual,135,coches.net,furgoneta
+citroën,jumper,14900.0,2023,54800.0,diesel,manual,140,coches.net,furgoneta
+hyundai,staria,14500.0,2021,80100.0,diesel,manual,182,coches.net,furgoneta
+citroën,jumper,11800.0,2020,118800.0,diesel,manual,155,coches.net,furgoneta
+peugeot,boxer,18300.0,2023,40000.0,diesel,manual,140,coches.net,furgoneta
+hyundai,h350,19800.0,2020,111500.0,diesel,manual,136,coches.net,furgoneta
+renault,trafic,11300.0,2020,115900.0,diesel,manual,95,coches.net,furgoneta
+mercedes-benz,sprinter,17000.0,2020,54600.0,diesel,manual,150,coches.net,furgoneta
+renault,kangoo,16900.0,2021,88000.0,electrico,manual,90,coches.net,furgoneta
+opel,combo,18900.0,2023,49100.0,diesel,manual,95,coches.net,furgoneta
+ford,transit connect,15600.0,2021,100600.0,diesel,manual,75,coches.net,furgoneta
+opel,vivaro,18800.0,2020,104500.0,diesel,manual,185,coches.net,furgoneta
+peugeot,partner,18600.0,2023,58500.0,gasolina,manual,105,coches.net,furgoneta
+iveco,daily,19500.0,2022,59600.0,diesel,manual,130,coches.net,furgoneta
+renault,trafic,19500.0,2021,91100.0,gasolina,manual,150,coches.net,furgoneta
+ford,transit courier,16900.0,2022,75000.0,gasolina,manual,100,coches.net,furgoneta
+peugeot,partner,15700.0,2023,27100.0,gasolina,automatica,110,coches.net,furgoneta
+volkswagen,transporter,18900.0,2023,38100.0,diesel,manual,110,coches.net,furgoneta
+citroën,jumpy,19300.0,2021,103400.0,diesel,manual,115,coches.net,furgoneta
+ford,transit,19500.0,2022,76800.0,diesel,manual,130,coches.net,furgoneta
+citroën,jumpy,14000.0,2021,84500.0,diesel,manual,145,coches.net,furgoneta
+citroën,berlingo,19400.0,2023,40200.0,gasolina,manual,110,coches.net,furgoneta
+peugeot,partner,17100.0,2021,113900.0,gasolina,manual,110,coches.net,furgoneta
+hyundai,h350,16400.0,2023,49000.0,gasolina,manual,170,coches.net,furgoneta
+hyundai,staria,19400.0,2021,109300.0,diesel,automatica,177,coches.net,furgoneta
+ford,transit,17800.0,2020,91300.0,diesel,manual,105,coches.net,furgoneta
+fiat,scudo,19500.0,2021,115600.0,diesel,manual,120,coches.net,furgoneta
+fiat,ducato,18800.0,2021,106500.0,diesel,manual,160,coches.net,furgoneta
+fiat,ducato,17400.0,2023,40300.0,hibrido,manual,122,coches.net,furgoneta
+toyota,proace city,17800.0,2021,83800.0,diesel,manual,105,coches.net,furgoneta
+ford,transit connect,17200.0,2020,114600.0,diesel,automatica,125,coches.net,furgoneta
+toyota,proace,19600.0,2020,116300.0,gasolina,manual,120,coches.net,furgoneta
+renault,trafic,17900.0,2023,53200.0,diesel,automatica,150,coches.net,furgoneta
+citroën,berlingo,19800.0,2022,55600.0,gasolina,manual,105,coches.net,furgoneta
+opel,combo,19200.0,2022,62100.0,hibrido,manual,110,coches.net,furgoneta
+fiat,scudo,12000.0,2020,111700.0,diesel,manual,145,coches.net,furgoneta
+ford,transit courier,19500.0,2023,44800.0,gasolina,manual,100,coches.net,furgoneta
+fiat,ducato,19000.0,2020,105800.0,diesel,manual,160,coches.net,furgoneta
+ford,transit courier,16500.0,2023,41100.0,gasolina,manual,105,coches.net,furgoneta
+peugeot,partner,11100.0,2020,73500.0,diesel,manual,100,coches.net,furgoneta
+nissan,primastar,13700.0,2023,49200.0,diesel,automatica,114,coches.net,furgoneta
+renault,trafic,17200.0,2021,103900.0,diesel,manual,95,coches.net,furgoneta
+man,tge,12300.0,2021,116100.0,diesel,manual,145,coches.net,furgoneta
+renault,trafic,15100.0,2023,43900.0,diesel,manual,115,coches.net,furgoneta
+citroën,berlingo,16100.0,2023,44000.0,electrico,automatica,136,coches.net,furgoneta
+mercedes-benz,vito,18600.0,2022,93600.0,diesel,manual,100,coches.net,furgoneta
+peugeot,boxer,18200.0,2020,101100.0,diesel,manual,160,coches.net,furgoneta
+nissan,nv300,17300.0,2020,93600.0,diesel,manual,90,coches.net,furgoneta
+citroën,jumpy,12600.0,2021,81800.0,diesel,manual,100,coches.net,furgoneta
+maxus,deliver 9,16200.0,2022,78000.0,electrico,manual,120,coches.net,furgoneta
+renault,kangoo,17000.0,2024,13900.0,diesel,manual,80,coches.net,furgoneta
+renault,master,13900.0,2021,67800.0,diesel,manual,180,coches.net,furgoneta
+peugeot,expert,14700.0,2021,108400.0,gasolina,manual,120,coches.net,furgoneta
+volkswagen,crafter,18500.0,2022,50200.0,diesel,automatica,177,coches.net,furgoneta
+iveco,daily,12200.0,2022,87100.0,gasolina,manual,102,coches.net,furgoneta
+fiat,scudo,17600.0,2021,119500.0,electrico,manual,115,coches.net,furgoneta
+renault,trafic,15400.0,2021,119600.0,diesel,manual,120,coches.net,furgoneta
+hyundai,h350,16300.0,2021,98200.0,diesel,manual,136,coches.net,furgoneta
+ford,transit,15900.0,2024,23800.0,diesel,manual,130,coches.net,furgoneta
+peugeot,expert,14700.0,2021,107700.0,diesel,manual,150,coches.net,furgoneta
+ford,transit connect,17500.0,2021,93100.0,diesel,manual,125,coches.net,furgoneta
+nissan,nv300,19100.0,2022,63100.0,diesel,manual,95,coches.net,furgoneta
+renault,master,19900.0,2022,71100.0,gasolina,manual,130,coches.net,furgoneta
+peugeot,expert,19700.0,2020,87900.0,diesel,manual,100,coches.net,furgoneta
+hyundai,h350,17700.0,2022,64400.0,diesel,manual,131,coches.net,furgoneta
+citroën,berlingo,14500.0,2023,48100.0,electrico,automatica,136,coches.net,furgoneta
+ford,transit,19100.0,2023,51900.0,diesel,automatica,175,coches.net,furgoneta
+renault,master,13900.0,2023,56400.0,diesel,manual,110,coches.net,furgoneta
+renault,master,19300.0,2022,92500.0,diesel,manual,115,coches.net,furgoneta
+renault,kangoo,16300.0,2021,111000.0,electrico,manual,85,coches.net,furgoneta
+renault,trafic,18700.0,2023,50500.0,diesel,automatica,150,coches.net,furgoneta
+opel,vivaro,17400.0,2020,62800.0,diesel,automatica,120,coches.net,furgoneta
+peugeot,expert,16300.0,2020,102400.0,gas,manual,120,coches.net,furgoneta
+opel,movano,14200.0,2021,109300.0,diesel,manual,163,coches.net,furgoneta
+hyundai,h350,18900.0,2020,94900.0,diesel,automatica,141,coches.net,furgoneta
+renault,trafic,19000.0,2021,96500.0,diesel,manual,155,coches.net,furgoneta
+iveco,daily,15000.0,2022,86200.0,diesel,manual,140,coches.net,furgoneta
+citroën,jumpy,17800.0,2021,92200.0,hibrido,manual,95,coches.net,furgoneta
+volkswagen,transporter,10500.0,2020,118500.0,gas,manual,209,coches.net,furgoneta
+opel,vivaro,16700.0,2020,103200.0,hibrido,manual,180,coches.net,furgoneta
+volkswagen,transporter,19500.0,2024,27000.0,diesel,manual,110,coches.net,furgoneta
+peugeot,partner,19400.0,2023,39300.0,gas,automatica,100,coches.net,furgoneta
+nissan,primastar,19500.0,2022,49900.0,diesel,automatica,109,coches.net,furgoneta
+peugeot,expert,15300.0,2021,81600.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumper,17500.0,2020,87600.0,diesel,manual,135,coches.net,furgoneta
+nissan,nv300,15600.0,2021,90300.0,gas,automatica,120,coches.net,furgoneta
+citroën,jumper,18300.0,2021,95800.0,diesel,automatica,125,coches.net,furgoneta
+citroën,jumper,17900.0,2021,87000.0,electrico,manual,160,coches.net,furgoneta
+citroën,jumper,18900.0,2021,68500.0,electrico,manual,165,coches.net,furgoneta
+citroën,berlingo,18000.0,2022,76800.0,gasolina,manual,110,coches.net,furgoneta
+renault,master,16500.0,2022,80000.0,diesel,manual,185,coches.net,furgoneta
+ford,transit,11700.0,2023,46100.0,gas,manual,105,coches.net,furgoneta
+volkswagen,crafter,19300.0,2021,93700.0,diesel,manual,177,coches.net,furgoneta
+peugeot,expert,13000.0,2022,99000.0,diesel,manual,150,coches.net,furgoneta
+peugeot,boxer,12100.0,2021,98300.0,diesel,automatica,155,coches.net,furgoneta
+ford,transit courier,15900.0,2021,92000.0,diesel,manual,75,coches.net,furgoneta
+renault,trafic,17100.0,2022,54800.0,diesel,automatica,125,coches.net,furgoneta
+citroën,jumpy,16700.0,2022,60100.0,gas,manual,155,coches.net,furgoneta
+toyota,proace,19000.0,2021,100900.0,gasolina,manual,150,coches.net,furgoneta
+mercedes-benz,sprinter,17200.0,2021,109300.0,electrico,manual,120,coches.net,furgoneta
+ford,transit connect,19600.0,2020,93800.0,electrico,manual,80,coches.net,furgoneta
+iveco,daily,19800.0,2020,117200.0,gas,manual,90,coches.net,furgoneta
+ford,transit connect,16700.0,2023,51700.0,electrico,automatica,95,coches.net,furgoneta
+citroën,jumpy,13800.0,2023,61400.0,diesel,manual,120,coches.net,furgoneta
+peugeot,expert,18300.0,2024,13000.0,gas,manual,115,coches.net,furgoneta
+citroën,jumper,19600.0,2022,53700.0,diesel,manual,160,coches.net,furgoneta
+peugeot,expert,17800.0,2021,110800.0,hibrido,manual,125,coches.net,furgoneta
+mercedes-benz,citan,18700.0,2023,36100.0,gas,automatica,130,coches.net,furgoneta
+peugeot,expert,19900.0,2024,23100.0,diesel,manual,120,coches.net,furgoneta
+citroën,berlingo,19700.0,2021,83200.0,gasolina,manual,110,coches.net,furgoneta
+citroën,jumper,18700.0,2021,103400.0,diesel,manual,130,coches.net,furgoneta
+volkswagen,crafter,15100.0,2020,101900.0,diesel,manual,145,coches.net,furgoneta
+fiat,doblo cargo,17700.0,2021,81700.0,diesel,manual,90,coches.net,furgoneta
+citroën,berlingo,19000.0,2021,101900.0,gasolina,automatica,115,coches.net,furgoneta
+mercedes-benz,sprinter,17500.0,2022,63800.0,diesel,manual,150,coches.net,furgoneta
+opel,movano,13900.0,2022,75300.0,gas,automatica,145,coches.net,furgoneta
+peugeot,boxer,16000.0,2021,111300.0,diesel,automatica,135,coches.net,furgoneta
+renault,kangoo,19300.0,2022,58800.0,diesel,manual,75,coches.net,furgoneta
+nissan,nv300,19200.0,2023,52300.0,gas,manual,100,coches.net,furgoneta
+hyundai,staria,18600.0,2024,24700.0,diesel,manual,177,coches.net,furgoneta
+renault,master,17400.0,2023,47300.0,diesel,manual,180,coches.net,furgoneta
+volkswagen,crafter,16700.0,2023,46800.0,diesel,manual,135,coches.net,furgoneta
+iveco,daily,17500.0,2022,112200.0,diesel,manual,150,coches.net,furgoneta
+ford,transit,18700.0,2022,68400.0,hibrido,manual,175,coches.net,furgoneta
+renault,kangoo,14500.0,2022,50400.0,diesel,manual,75,coches.net,furgoneta
+iveco,daily,19500.0,2021,114800.0,hibrido,manual,90,coches.net,furgoneta
+renault,trafic,17700.0,2020,112400.0,diesel,manual,125,coches.net,furgoneta
+peugeot,boxer,18600.0,2022,89600.0,diesel,manual,160,coches.net,furgoneta
+ford,transit connect,14000.0,2022,83400.0,diesel,automatica,120,coches.net,furgoneta
+opel,vivaro,16900.0,2020,92900.0,gasolina,manual,120,coches.net,furgoneta
+renault,kangoo,12900.0,2021,89300.0,diesel,automatica,95,coches.net,furgoneta
+mercedes-benz,citan,19400.0,2020,108500.0,diesel,manual,90,coches.net,furgoneta
+fiat,doblo cargo,14800.0,2022,57100.0,diesel,manual,95,coches.net,furgoneta
+nissan,nv400,15700.0,2023,34900.0,diesel,manual,105,coches.net,furgoneta
+citroën,jumper,19800.0,2020,101700.0,diesel,automatica,160,coches.net,furgoneta
+fiat,doblo cargo,17300.0,2020,115200.0,hibrido,manual,100,coches.net,furgoneta
+iveco,daily,19200.0,2023,56900.0,diesel,manual,140,coches.net,furgoneta
+opel,vivaro,16900.0,2023,42100.0,diesel,manual,105,coches.net,furgoneta
+hyundai,h350,12300.0,2021,95100.0,diesel,manual,170,coches.net,furgoneta
+ford,transit,19700.0,2021,102600.0,diesel,manual,130,coches.net,furgoneta
+peugeot,boxer,10300.0,2021,105000.0,hibrido,manual,140,coches.net,furgoneta
+iveco,daily,17900.0,2020,93200.0,diesel,manual,130,coches.net,furgoneta
+volkswagen,caddy,19700.0,2022,90900.0,gas,manual,107,coches.net,furgoneta
+citroën,jumper,19900.0,2023,24100.0,diesel,manual,145,coches.net,furgoneta
+citroën,berlingo,14600.0,2021,104900.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumper,18300.0,2021,86600.0,diesel,manual,140,coches.net,furgoneta
+renault,trafic,16600.0,2020,97000.0,hibrido,manual,85,coches.net,furgoneta
+opel,movano,15100.0,2021,80700.0,diesel,automatica,110,coches.net,furgoneta
+citroën,berlingo,16500.0,2022,70400.0,diesel,manual,100,coches.net,furgoneta
+ford,transit,17100.0,2022,57100.0,diesel,manual,155,coches.net,furgoneta
+citroën,jumpy,19600.0,2021,68600.0,diesel,automatica,150,coches.net,furgoneta
+citroën,jumper,19600.0,2023,46700.0,diesel,manual,145,coches.net,furgoneta
+mercedes-benz,sprinter,19700.0,2020,108200.0,diesel,manual,140,coches.net,furgoneta
+renault,trafic,18300.0,2023,59400.0,diesel,manual,115,coches.net,furgoneta
+fiat,ducato,10300.0,2020,101300.0,diesel,manual,135,coches.net,furgoneta
+toyota,proace city,13900.0,2022,95100.0,diesel,manual,100,coches.net,furgoneta
+toyota,proace,19500.0,2023,34500.0,electrico,manual,131,coches.net,furgoneta
+citroën,jumper,19700.0,2022,34900.0,diesel,manual,130,coches.net,furgoneta
+iveco,daily,18400.0,2023,38400.0,diesel,manual,140,coches.net,furgoneta
+opel,vivaro,14600.0,2022,67100.0,diesel,manual,100,coches.net,furgoneta
+volkswagen,crafter,18900.0,2022,87000.0,diesel,manual,177,coches.net,furgoneta
+opel,vivaro,14500.0,2021,72800.0,diesel,manual,115,coches.net,furgoneta
+volkswagen,transporter,16600.0,2021,93800.0,diesel,manual,204,coches.net,furgoneta
+volkswagen,transporter,15900.0,2022,67800.0,diesel,automatica,115,coches.net,furgoneta
+renault,master,18000.0,2020,104600.0,gasolina,manual,110,coches.net,furgoneta
+renault,kangoo,17000.0,2020,78600.0,diesel,manual,75,coches.net,furgoneta
+fiat,doblo cargo,19700.0,2020,116700.0,gasolina,manual,95,coches.net,furgoneta
+ford,transit courier,16800.0,2020,101900.0,gasolina,automatica,105,coches.net,furgoneta
+mercedes-benz,sprinter,17200.0,2022,77300.0,diesel,manual,140,coches.net,furgoneta
+renault,kangoo,18100.0,2022,88400.0,diesel,manual,75,coches.net,furgoneta
+ford,transit courier,17500.0,2022,80100.0,diesel,manual,70,coches.net,furgoneta
+nissan,primastar,19200.0,2022,68500.0,diesel,automatica,109,coches.net,furgoneta
+peugeot,partner,19100.0,2022,41400.0,gasolina,manual,110,coches.net,furgoneta
+renault,trafic,13400.0,2021,96300.0,gasolina,manual,90,coches.net,furgoneta
+toyota,proace city,17000.0,2022,55400.0,diesel,automatica,100,coches.net,furgoneta
+fiat,ducato,17400.0,2023,48000.0,diesel,manual,122,coches.net,furgoneta
+renault,master,19900.0,2022,81300.0,diesel,manual,150,coches.net,furgoneta
+renault,master,13800.0,2022,60300.0,gasolina,manual,105,coches.net,furgoneta
+opel,vivaro,18300.0,2022,45700.0,gasolina,manual,95,coches.net,furgoneta
+fiat,scudo,13600.0,2020,99400.0,diesel,manual,140,coches.net,furgoneta
+iveco,daily,19900.0,2021,87400.0,diesel,automatica,102,coches.net,furgoneta
+volkswagen,transporter,15400.0,2023,44900.0,diesel,automatica,110,coches.net,furgoneta
+toyota,proace,17800.0,2022,65500.0,hibrido,manual,115,coches.net,furgoneta
+citroën,jumper,14900.0,2021,91000.0,diesel,automatica,160,coches.net,furgoneta
+ford,transit courier,19900.0,2021,64800.0,diesel,manual,80,coches.net,furgoneta
+peugeot,partner,19700.0,2021,106700.0,gasolina,manual,110,coches.net,furgoneta
+ford,transit connect,15700.0,2021,117600.0,diesel,manual,100,coches.net,furgoneta
+nissan,nv300,16100.0,2021,105600.0,gas,automatica,120,coches.net,furgoneta
+opel,vivaro,13500.0,2023,48000.0,gas,manual,100,coches.net,furgoneta
+fiat,ducato,19900.0,2022,84400.0,diesel,automatica,135,coches.net,furgoneta
+hyundai,staria,19000.0,2022,59100.0,electrico,manual,177,coches.net,furgoneta
+peugeot,partner,19800.0,2023,59000.0,diesel,manual,100,coches.net,furgoneta
+maxus,ev80,19200.0,2022,81800.0,electrico,manual,120,coches.net,furgoneta
+peugeot,partner,16400.0,2021,101200.0,gasolina,manual,110,coches.net,furgoneta
+renault,master,15800.0,2020,107000.0,gasolina,automatica,115,coches.net,furgoneta
+fiat,ducato,16300.0,2022,79100.0,diesel,automatica,160,coches.net,furgoneta
+fiat,scudo,17400.0,2021,70300.0,diesel,automatica,120,coches.net,furgoneta
+ford,transit,18600.0,2024,18700.0,diesel,automatica,130,coches.net,furgoneta
+renault,trafic,18700.0,2023,44700.0,diesel,automatica,120,coches.net,furgoneta
+volkswagen,crafter,16300.0,2022,89300.0,diesel,manual,140,coches.net,furgoneta
+opel,combo,15700.0,2021,94000.0,diesel,manual,100,coches.net,furgoneta
+opel,movano,18500.0,2021,107000.0,diesel,manual,163,coches.net,furgoneta
+ford,transit,19500.0,2023,50800.0,diesel,manual,155,coches.net,furgoneta
+mercedes-benz,sprinter,15200.0,2022,78100.0,diesel,manual,120,coches.net,furgoneta
+peugeot,partner,11800.0,2022,110100.0,diesel,automatica,95,coches.net,furgoneta
+mercedes-benz,citan,14200.0,2021,101000.0,diesel,manual,75,coches.net,furgoneta
+nissan,nv200,18900.0,2022,65800.0,hibrido,manual,90,coches.net,furgoneta
+iveco,daily,18200.0,2020,109300.0,gasolina,manual,150,coches.net,furgoneta
+fiat,doblo cargo,18100.0,2022,84600.0,hibrido,manual,90,coches.net,furgoneta
+nissan,nv200,15200.0,2021,90600.0,diesel,automatica,115,coches.net,furgoneta
+fiat,scudo,12500.0,2022,76200.0,diesel,manual,145,coches.net,furgoneta
+citroën,jumper,18700.0,2022,60700.0,diesel,automatica,140,coches.net,furgoneta
+hyundai,h350,17400.0,2022,70100.0,diesel,automatica,136,coches.net,furgoneta
+citroën,jumper,17100.0,2021,106400.0,diesel,manual,145,coches.net,furgoneta
+peugeot,partner,11700.0,2022,50500.0,diesel,manual,105,coches.net,furgoneta
+renault,trafic,19100.0,2022,84700.0,diesel,manual,145,coches.net,furgoneta
+opel,vivaro,14300.0,2020,90800.0,diesel,manual,115,coches.net,furgoneta
+opel,combo,16900.0,2022,70200.0,diesel,automatica,110,coches.net,furgoneta
+maxus,ev80,16100.0,2021,86200.0,electrico,manual,120,coches.net,furgoneta
+peugeot,expert,11500.0,2022,66500.0,diesel,manual,115,coches.net,furgoneta
+nissan,nv200,19000.0,2021,93400.0,diesel,automatica,115,coches.net,furgoneta
+opel,combo,18600.0,2022,66100.0,gas,manual,110,coches.net,furgoneta
+ford,transit courier,16900.0,2021,97700.0,diesel,automatica,75,coches.net,furgoneta
+opel,movano,19500.0,2020,100700.0,diesel,automatica,110,coches.net,furgoneta
+peugeot,expert,17900.0,2021,103800.0,diesel,manual,115,coches.net,furgoneta
+ford,transit,19100.0,2021,97000.0,diesel,automatica,125,coches.net,furgoneta
+opel,movano,14100.0,2022,81100.0,diesel,manual,163,coches.net,furgoneta
+renault,master,15200.0,2021,107800.0,diesel,automatica,110,coches.net,furgoneta
+renault,master,19700.0,2021,91700.0,diesel,automatica,135,coches.net,furgoneta
+man,tge,12800.0,2022,82400.0,diesel,automatica,140,coches.net,furgoneta
+ford,transit connect,14600.0,2023,54500.0,diesel,manual,105,coches.net,furgoneta
+volkswagen,transporter,13800.0,2021,73500.0,gasolina,automatica,150,coches.net,furgoneta
+peugeot,boxer,19100.0,2024,23200.0,diesel,manual,140,coches.net,furgoneta
+nissan,nv400,19000.0,2023,72200.0,diesel,automatica,150,coches.net,furgoneta
+renault,master,14600.0,2022,70600.0,gas,manual,135,coches.net,furgoneta
+ford,transit connect,14600.0,2020,108600.0,diesel,manual,75,coches.net,furgoneta
+renault,master,13200.0,2020,113700.0,diesel,manual,150,coches.net,furgoneta
+nissan,primastar,12600.0,2022,73300.0,diesel,manual,119,coches.net,furgoneta
+citroën,jumper,15500.0,2023,41300.0,diesel,manual,130,coches.net,furgoneta
+ford,transit connect,17200.0,2021,74700.0,hibrido,automatica,105,coches.net,furgoneta
+renault,kangoo,19500.0,2021,101300.0,gasolina,manual,75,coches.net,furgoneta
+renault,kangoo,13100.0,2021,72600.0,electrico,manual,90,coches.net,furgoneta
+renault,trafic,11900.0,2023,51700.0,hibrido,manual,120,coches.net,furgoneta
+hyundai,staria,11000.0,2023,47700.0,diesel,manual,177,coches.net,furgoneta
+volkswagen,caddy,10600.0,2021,99000.0,diesel,manual,102,coches.net,furgoneta
+opel,movano,19000.0,2021,84500.0,diesel,automatica,140,coches.net,furgoneta
+peugeot,boxer,16900.0,2022,34800.0,diesel,manual,125,coches.net,furgoneta
+renault,master,14800.0,2023,54700.0,diesel,manual,180,coches.net,furgoneta
+renault,kangoo,17200.0,2021,90500.0,hibrido,automatica,100,coches.net,furgoneta
+citroën,berlingo,17700.0,2022,63400.0,gasolina,automatica,110,coches.net,furgoneta
+fiat,doblo cargo,17700.0,2020,72600.0,gas,manual,105,coches.net,furgoneta
+citroën,berlingo,16700.0,2023,47700.0,gasolina,manual,110,coches.net,furgoneta
+renault,trafic,15400.0,2022,77700.0,diesel,manual,150,coches.net,furgoneta
+renault,trafic,16500.0,2021,95100.0,gas,manual,150,coches.net,furgoneta
+nissan,nv300,18700.0,2022,90700.0,diesel,manual,120,coches.net,furgoneta
+renault,kangoo,18900.0,2023,52900.0,diesel,manual,100,coches.net,furgoneta
+renault,trafic,16700.0,2020,108300.0,diesel,manual,150,coches.net,furgoneta
+opel,combo,18400.0,2021,88800.0,diesel,manual,100,coches.net,furgoneta
+toyota,proace,10900.0,2020,91300.0,diesel,manual,145,coches.net,furgoneta
+hyundai,h350,19400.0,2021,106500.0,diesel,manual,175,coches.net,furgoneta
+citroën,jumpy,13000.0,2022,68800.0,diesel,manual,120,coches.net,furgoneta
+peugeot,boxer,16100.0,2021,94200.0,diesel,manual,140,coches.net,furgoneta
+mercedes-benz,vito,13500.0,2020,95500.0,gas,manual,130,coches.net,furgoneta
+opel,combo,18800.0,2020,110400.0,diesel,manual,100,coches.net,furgoneta
+toyota,proace city,19600.0,2020,77100.0,hibrido,manual,110,coches.net,furgoneta
+citroën,berlingo,13900.0,2021,89100.0,diesel,manual,105,coches.net,furgoneta
+ford,transit connect,18700.0,2022,67900.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumper,18200.0,2022,63800.0,diesel,manual,125,coches.net,furgoneta
+citroën,jumpy,19800.0,2023,58100.0,diesel,manual,115,coches.net,furgoneta
+renault,trafic,19800.0,2023,45300.0,diesel,automatica,90,coches.net,furgoneta
+man,tge,17400.0,2021,103800.0,diesel,automatica,135,coches.net,furgoneta
+man,tge,17700.0,2020,106400.0,diesel,manual,102,coches.net,furgoneta
+ford,transit courier,19000.0,2023,43300.0,diesel,manual,75,coches.net,furgoneta
+fiat,scudo,18000.0,2022,65200.0,diesel,manual,125,coches.net,furgoneta
+fiat,doblo cargo,14500.0,2022,80400.0,diesel,manual,85,coches.net,furgoneta
+maxus,ev80,19300.0,2023,52800.0,electrico,manual,120,coches.net,furgoneta
+renault,kangoo,19400.0,2021,84600.0,diesel,manual,75,coches.net,furgoneta
+nissan,nv200,17200.0,2021,94500.0,diesel,manual,90,coches.net,furgoneta
+citroën,jumper,16600.0,2023,45200.0,hibrido,manual,140,coches.net,furgoneta
+ford,transit,12200.0,2021,93900.0,diesel,manual,125,coches.net,furgoneta
+citroën,jumper,18200.0,2021,115000.0,diesel,automatica,130,coches.net,furgoneta
+maxus,deliver 9,16200.0,2021,94900.0,diesel,manual,150,coches.net,furgoneta
+peugeot,expert,16300.0,2023,44400.0,diesel,manual,145,coches.net,furgoneta
+citroën,berlingo,13400.0,2022,72000.0,gasolina,automatica,110,coches.net,furgoneta
+citroën,jumpy,17200.0,2020,97300.0,diesel,automatica,105,coches.net,furgoneta
+nissan,primastar,17800.0,2022,50900.0,diesel,manual,119,coches.net,furgoneta
+citroën,jumpy,14800.0,2021,61200.0,diesel,manual,125,coches.net,furgoneta
+citroën,berlingo,19400.0,2022,79500.0,electrico,manual,136,coches.net,furgoneta
+toyota,proace city,17900.0,2023,38100.0,gasolina,manual,95,coches.net,furgoneta
+man,tge,18200.0,2020,98400.0,diesel,automatica,140,coches.net,furgoneta
+peugeot,boxer,17500.0,2021,77900.0,diesel,automatica,140,coches.net,furgoneta
+renault,trafic,19500.0,2023,38400.0,hibrido,manual,150,coches.net,furgoneta
+hyundai,staria,15300.0,2021,97600.0,electrico,automatica,172,coches.net,furgoneta
+volkswagen,crafter,18300.0,2022,74200.0,electrico,manual,172,coches.net,furgoneta
+renault,kangoo,14600.0,2023,64800.0,diesel,manual,95,coches.net,furgoneta
+nissan,nv200,14500.0,2020,88800.0,diesel,automatica,95,coches.net,furgoneta
+citroën,jumper,15800.0,2021,74800.0,diesel,manual,160,coches.net,furgoneta
+hyundai,staria,12500.0,2022,90500.0,gasolina,manual,182,coches.net,furgoneta
+volkswagen,caddy,19700.0,2021,99600.0,gasolina,manual,102,coches.net,furgoneta
+citroën,jumper,16300.0,2020,106600.0,hibrido,manual,135,coches.net,furgoneta
+hyundai,staria,18300.0,2022,69300.0,diesel,automatica,177,coches.net,furgoneta
+nissan,primastar,16700.0,2022,67900.0,diesel,automatica,114,coches.net,furgoneta
+opel,vivaro,17000.0,2022,77100.0,hibrido,manual,100,coches.net,furgoneta
+renault,master,12200.0,2021,75500.0,hibrido,manual,115,coches.net,furgoneta
+fiat,doblo cargo,19100.0,2022,59700.0,gasolina,manual,105,coches.net,furgoneta
+citroën,jumper,15500.0,2021,78900.0,diesel,automatica,160,coches.net,furgoneta
+citroën,jumper,15900.0,2021,74400.0,diesel,manual,135,coches.net,furgoneta
+citroën,jumper,14600.0,2021,83300.0,diesel,manual,160,coches.net,furgoneta
+volkswagen,transporter,15900.0,2020,112600.0,diesel,manual,107,coches.net,furgoneta
+ford,transit connect,19700.0,2021,81400.0,diesel,manual,100,coches.net,furgoneta
+maxus,ev80,15200.0,2023,51800.0,electrico,manual,120,coches.net,furgoneta
+citroën,jumpy,17400.0,2022,88900.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumpy,19800.0,2023,50300.0,diesel,manual,100,coches.net,furgoneta
+nissan,nv400,19200.0,2023,39400.0,diesel,manual,145,coches.net,furgoneta
+renault,trafic,15800.0,2020,102100.0,diesel,manual,90,coches.net,furgoneta
+fiat,doblo cargo,19900.0,2023,43100.0,diesel,manual,90,coches.net,furgoneta
+fiat,ducato,16000.0,2020,59200.0,diesel,manual,160,coches.net,furgoneta
+volkswagen,crafter,18100.0,2022,79200.0,diesel,manual,140,coches.net,furgoneta
+toyota,proace city,19000.0,2022,67700.0,diesel,manual,110,coches.net,furgoneta
+ford,transit,15700.0,2020,96200.0,diesel,automatica,155,coches.net,furgoneta
+nissan,nv400,19100.0,2022,62100.0,diesel,manual,110,coches.net,furgoneta
+nissan,nv400,17100.0,2023,55600.0,hibrido,manual,145,coches.net,furgoneta
+volkswagen,transporter,15600.0,2021,105500.0,gas,manual,97,coches.net,furgoneta
+nissan,primastar,19800.0,2023,26800.0,diesel,manual,119,coches.net,furgoneta
+fiat,scudo,17100.0,2022,62300.0,diesel,automatica,120,coches.net,furgoneta
+nissan,primastar,18500.0,2024,23600.0,diesel,manual,114,coches.net,furgoneta
+mercedes-benz,citan,16100.0,2020,93500.0,diesel,automatica,120,coches.net,furgoneta
+volkswagen,transporter,16400.0,2021,83500.0,gasolina,manual,105,coches.net,furgoneta
+ford,transit courier,19900.0,2023,34700.0,gasolina,automatica,100,coches.net,furgoneta
+renault,master,17800.0,2024,24900.0,diesel,manual,105,coches.net,furgoneta
+volkswagen,transporter,17700.0,2020,116300.0,diesel,manual,102,coches.net,furgoneta
+ford,transit,15600.0,2022,65000.0,gas,manual,175,coches.net,furgoneta
+mercedes-benz,citan,18800.0,2022,69400.0,diesel,manual,102,coches.net,furgoneta
+peugeot,expert,17800.0,2021,90300.0,diesel,automatica,120,coches.net,furgoneta
+citroën,berlingo,17900.0,2021,106100.0,electrico,manual,141,coches.net,furgoneta
+fiat,doblo cargo,14500.0,2022,64500.0,diesel,manual,105,coches.net,furgoneta
+volkswagen,transporter,19400.0,2020,107400.0,electrico,manual,204,coches.net,furgoneta
+volkswagen,crafter,14800.0,2022,83700.0,diesel,manual,140,coches.net,furgoneta
+fiat,scudo,17200.0,2021,99900.0,gas,manual,145,coches.net,furgoneta
+fiat,doblo cargo,19100.0,2022,43900.0,electrico,automatica,100,coches.net,furgoneta
+toyota,proace,14600.0,2022,58800.0,electrico,automatica,136,coches.net,furgoneta
+opel,vivaro,12100.0,2021,113700.0,diesel,manual,120,coches.net,furgoneta
+renault,kangoo,15400.0,2020,81500.0,diesel,manual,75,coches.net,furgoneta
+ford,transit courier,15500.0,2021,102800.0,gasolina,automatica,100,coches.net,furgoneta
+maxus,deliver 9,17900.0,2022,75100.0,electrico,manual,115,coches.net,furgoneta
+fiat,ducato,18300.0,2023,36000.0,diesel,manual,130,coches.net,furgoneta
+nissan,nv400,15800.0,2021,46800.0,gasolina,manual,150,coches.net,furgoneta
+ford,transit courier,17000.0,2022,75700.0,gasolina,manual,100,coches.net,furgoneta
+fiat,ducato,19000.0,2022,74200.0,diesel,manual,117,coches.net,furgoneta
+ford,transit,12900.0,2021,102800.0,diesel,automatica,130,coches.net,furgoneta
+maxus,deliver 9,16700.0,2021,106100.0,diesel,manual,155,coches.net,furgoneta
+peugeot,expert,18800.0,2020,100800.0,diesel,automatica,95,coches.net,furgoneta
+hyundai,staria,19500.0,2023,46600.0,diesel,manual,177,coches.net,furgoneta
+mercedes-benz,citan,17500.0,2021,107900.0,diesel,automatica,110,coches.net,furgoneta
+fiat,scudo,16200.0,2022,61500.0,electrico,manual,140,coches.net,furgoneta
+opel,combo,18900.0,2023,43400.0,gas,manual,110,coches.net,furgoneta
+nissan,primastar,14200.0,2021,91000.0,diesel,manual,114,coches.net,furgoneta
+nissan,nv200,17300.0,2021,90000.0,diesel,manual,110,coches.net,furgoneta
+renault,master,18400.0,2022,67100.0,diesel,automatica,185,coches.net,furgoneta
+volkswagen,caddy,19300.0,2021,88100.0,gasolina,manual,114,coches.net,furgoneta
+opel,combo,18000.0,2020,117500.0,diesel,manual,95,coches.net,furgoneta
+mercedes-benz,sprinter,17800.0,2021,119600.0,diesel,automatica,140,coches.net,furgoneta
+peugeot,partner,18000.0,2022,69700.0,gasolina,manual,115,coches.net,furgoneta
+fiat,doblo cargo,10900.0,2021,103500.0,gasolina,manual,105,coches.net,furgoneta
+renault,master,19300.0,2023,57300.0,gasolina,automatica,130,coches.net,furgoneta
+fiat,doblo cargo,17400.0,2021,68700.0,diesel,manual,105,coches.net,furgoneta
+citroën,berlingo,18900.0,2023,58800.0,gasolina,manual,110,coches.net,furgoneta
+iveco,daily,19200.0,2022,66500.0,diesel,manual,100,coches.net,furgoneta
+ford,transit connect,19100.0,2022,60400.0,diesel,manual,120,coches.net,furgoneta
+citroën,berlingo,13800.0,2021,96800.0,gasolina,manual,115,coches.net,furgoneta
+renault,master,18000.0,2023,53300.0,diesel,automatica,140,coches.net,furgoneta
+nissan,primastar,19600.0,2021,95000.0,electrico,manual,114,coches.net,furgoneta
+peugeot,expert,18900.0,2023,42900.0,diesel,manual,150,coches.net,furgoneta
+opel,combo,16800.0,2021,80900.0,diesel,manual,100,coches.net,furgoneta
+fiat,doblo cargo,19900.0,2024,18600.0,diesel,automatica,95,coches.net,furgoneta
+renault,master,19200.0,2020,118300.0,electrico,automatica,175,coches.net,furgoneta
+maxus,deliver 9,16200.0,2021,93500.0,gasolina,manual,145,coches.net,furgoneta
+renault,master,16500.0,2021,112900.0,diesel,manual,180,coches.net,furgoneta
+opel,vivaro,19200.0,2021,58200.0,diesel,manual,100,coches.net,furgoneta
+renault,kangoo,17800.0,2023,49100.0,diesel,manual,70,coches.net,furgoneta
+volkswagen,transporter,19000.0,2020,103700.0,diesel,manual,102,coches.net,furgoneta
+nissan,nv400,19900.0,2024,26100.0,diesel,manual,115,coches.net,furgoneta
+opel,combo,17600.0,2021,64400.0,diesel,manual,115,coches.net,furgoneta
+citroën,berlingo,15700.0,2022,69000.0,diesel,manual,100,coches.net,furgoneta
+ford,transit,15700.0,2020,111500.0,diesel,automatica,135,coches.net,furgoneta
+citroën,jumper,16500.0,2021,80200.0,hibrido,manual,135,coches.net,furgoneta
+citroën,berlingo,19100.0,2023,45900.0,electrico,manual,136,coches.net,furgoneta
+hyundai,h350,13800.0,2022,65600.0,hibrido,manual,131,coches.net,furgoneta
+hyundai,staria,14700.0,2022,85400.0,diesel,manual,177,coches.net,furgoneta
+nissan,nv300,11300.0,2021,91600.0,diesel,manual,95,coches.net,furgoneta
+opel,combo,14500.0,2022,60500.0,hibrido,automatica,95,coches.net,furgoneta
+hyundai,staria,18000.0,2021,87300.0,diesel,manual,177,coches.net,furgoneta
+ford,transit connect,11500.0,2021,112200.0,gas,manual,100,coches.net,furgoneta
+man,tge,19800.0,2020,95600.0,diesel,automatica,140,coches.net,furgoneta
+mercedes-benz,vito,15300.0,2020,96800.0,diesel,automatica,110,coches.net,furgoneta
+fiat,doblo cargo,18900.0,2022,70800.0,diesel,manual,100,coches.net,furgoneta
+peugeot,partner,14900.0,2022,48800.0,diesel,manual,100,coches.net,furgoneta
+hyundai,h350,10200.0,2021,100300.0,diesel,manual,175,coches.net,furgoneta
+ford,transit,18300.0,2022,89800.0,diesel,automatica,175,coches.net,furgoneta
+ford,transit courier,14200.0,2020,118200.0,diesel,manual,80,coches.net,furgoneta
+toyota,proace,16400.0,2020,112200.0,electrico,manual,131,coches.net,furgoneta
+renault,kangoo,18700.0,2020,96500.0,electrico,automatica,90,coches.net,furgoneta
+ford,transit courier,16000.0,2023,54700.0,diesel,manual,75,coches.net,furgoneta
+renault,trafic,16900.0,2022,99400.0,diesel,manual,120,coches.net,furgoneta
+peugeot,boxer,17700.0,2022,89000.0,diesel,manual,160,coches.net,furgoneta
+iveco,daily,13600.0,2021,94500.0,diesel,manual,150,coches.net,furgoneta
+ford,transit,13100.0,2021,97700.0,gasolina,manual,125,coches.net,furgoneta
+fiat,doblo cargo,15800.0,2022,91500.0,gas,manual,110,coches.net,furgoneta
+fiat,scudo,19100.0,2023,45700.0,diesel,manual,145,coches.net,furgoneta
+citroën,jumpy,15200.0,2022,67300.0,diesel,automatica,100,coches.net,furgoneta
+citroën,jumpy,17500.0,2022,61900.0,diesel,manual,155,coches.net,furgoneta
+volkswagen,crafter,17300.0,2022,83200.0,gas,manual,102,coches.net,furgoneta
+citroën,berlingo,19000.0,2023,47100.0,gasolina,manual,110,coches.net,furgoneta
+opel,combo,17900.0,2020,82900.0,diesel,manual,100,coches.net,furgoneta
+nissan,nv200,19300.0,2021,115300.0,gas,automatica,90,coches.net,furgoneta
+peugeot,expert,19400.0,2024,19500.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumper,16500.0,2021,84300.0,hibrido,manual,130,coches.net,furgoneta
+toyota,proace city,18600.0,2020,98100.0,diesel,manual,100,coches.net,furgoneta
+man,tge,14600.0,2021,93600.0,diesel,manual,140,coches.net,furgoneta
+fiat,ducato,18100.0,2021,91300.0,diesel,manual,122,coches.net,furgoneta
+citroën,jumpy,12800.0,2020,107800.0,diesel,automatica,125,coches.net,furgoneta
+man,tge,19700.0,2023,39100.0,diesel,manual,102,coches.net,furgoneta
+peugeot,boxer,19400.0,2022,68000.0,diesel,manual,140,coches.net,furgoneta
+hyundai,staria,15200.0,2023,51600.0,diesel,manual,177,coches.net,furgoneta
+iveco,daily,13100.0,2020,78300.0,diesel,automatica,140,coches.net,furgoneta
+fiat,ducato,16800.0,2022,59900.0,diesel,manual,127,coches.net,furgoneta
+toyota,proace,18100.0,2023,36800.0,gas,manual,125,coches.net,furgoneta
+ford,transit connect,18700.0,2020,91800.0,diesel,manual,105,coches.net,furgoneta
+citroën,jumper,15900.0,2023,58400.0,diesel,manual,155,coches.net,furgoneta
+ford,transit,14300.0,2021,91000.0,diesel,manual,170,coches.net,furgoneta
+volkswagen,crafter,15200.0,2021,58900.0,diesel,automatica,182,coches.net,furgoneta
+ford,transit courier,14600.0,2021,80100.0,gasolina,manual,100,coches.net,furgoneta
+opel,vivaro,15500.0,2022,81100.0,diesel,manual,115,coches.net,furgoneta
+ford,transit courier,19000.0,2021,118800.0,diesel,manual,80,coches.net,furgoneta
+fiat,scudo,18100.0,2022,55900.0,diesel,manual,120,coches.net,furgoneta
+toyota,proace,12400.0,2021,88400.0,hibrido,manual,115,coches.net,furgoneta
+maxus,deliver 9,15000.0,2022,99600.0,diesel,automatica,150,coches.net,furgoneta
+peugeot,boxer,16800.0,2022,90100.0,diesel,automatica,160,coches.net,furgoneta
+opel,movano,15600.0,2021,88300.0,electrico,manual,163,coches.net,furgoneta
+citroën,jumper,18800.0,2023,45900.0,diesel,manual,130,coches.net,furgoneta
+renault,trafic,18700.0,2021,115800.0,diesel,automatica,150,coches.net,furgoneta
+peugeot,expert,19900.0,2020,114500.0,electrico,manual,100,coches.net,furgoneta
+ford,transit courier,19000.0,2023,42400.0,diesel,manual,75,coches.net,furgoneta
+citroën,jumper,17600.0,2023,35100.0,diesel,automatica,140,coches.net,furgoneta
+hyundai,h350,19700.0,2021,94300.0,diesel,manual,165,coches.net,furgoneta
+renault,trafic,12800.0,2020,110800.0,diesel,manual,85,coches.net,furgoneta
+fiat,ducato,12600.0,2022,80500.0,diesel,manual,135,coches.net,furgoneta
+renault,trafic,17300.0,2021,87800.0,diesel,manual,90,coches.net,furgoneta
+nissan,primastar,18000.0,2024,22500.0,diesel,manual,114,coches.net,furgoneta
+citroën,jumper,19800.0,2022,70700.0,hibrido,automatica,130,coches.net,furgoneta
+volkswagen,transporter,16800.0,2024,21000.0,diesel,automatica,105,coches.net,furgoneta
+ford,transit courier,14700.0,2021,96400.0,gasolina,manual,95,coches.net,furgoneta
+peugeot,partner,17400.0,2020,95900.0,gasolina,automatica,105,coches.net,furgoneta
+peugeot,boxer,10900.0,2023,53900.0,hibrido,manual,140,coches.net,furgoneta
+citroën,jumpy,19200.0,2023,36700.0,diesel,manual,105,coches.net,furgoneta
+renault,trafic,18200.0,2020,99600.0,diesel,manual,145,coches.net,furgoneta
+opel,combo,17600.0,2022,73100.0,diesel,automatica,110,coches.net,furgoneta
+volkswagen,transporter,18200.0,2023,38200.0,diesel,manual,110,coches.net,furgoneta
+citroën,jumper,15500.0,2021,51400.0,diesel,manual,130,coches.net,furgoneta
+fiat,ducato,19800.0,2022,71600.0,diesel,manual,155,coches.net,furgoneta
+peugeot,expert,15900.0,2021,90800.0,diesel,automatica,120,coches.net,furgoneta
+fiat,ducato,16700.0,2023,42200.0,gas,manual,160,coches.net,furgoneta
+citroën,jumpy,16600.0,2021,98100.0,diesel,automatica,120,coches.net,furgoneta
+ford,transit courier,14300.0,2021,96400.0,gasolina,manual,100,coches.net,furgoneta
+ford,transit connect,18900.0,2021,80900.0,diesel,automatica,125,coches.net,furgoneta
+volkswagen,crafter,13700.0,2021,116500.0,diesel,manual,102,coches.net,furgoneta
+peugeot,expert,14200.0,2021,101700.0,diesel,automatica,105,coches.net,furgoneta
+opel,vivaro,17200.0,2022,48900.0,diesel,manual,95,coches.net,furgoneta
+renault,master,15100.0,2020,113900.0,diesel,automatica,175,coches.net,furgoneta
+toyota,proace,15600.0,2022,72500.0,diesel,manual,150,coches.net,furgoneta
+peugeot,boxer,18600.0,2022,79000.0,diesel,manual,155,coches.net,furgoneta
+hyundai,staria,16900.0,2022,59500.0,diesel,manual,172,coches.net,furgoneta
+citroën,jumper,13000.0,2023,32600.0,diesel,manual,165,coches.net,furgoneta
+renault,kangoo,18800.0,2022,76300.0,electrico,manual,90,coches.net,furgoneta
+maxus,deliver 9,17500.0,2021,105700.0,diesel,manual,150,coches.net,furgoneta
+maxus,ev80,19800.0,2020,106500.0,electrico,automatica,120,coches.net,furgoneta
+iveco,daily,19900.0,2021,108200.0,gas,automatica,102,coches.net,furgoneta
+ford,transit connect,19500.0,2020,100100.0,diesel,manual,120,coches.net,furgoneta
+maxus,deliver 9,16600.0,2021,119400.0,diesel,manual,150,coches.net,furgoneta
+citroën,jumper,17400.0,2021,83900.0,diesel,manual,130,coches.net,furgoneta
+fiat,scudo,15800.0,2020,107500.0,diesel,automatica,150,coches.net,furgoneta
+peugeot,boxer,18100.0,2022,94300.0,diesel,manual,160,coches.net,furgoneta
+opel,combo,19500.0,2023,52000.0,hibrido,automatica,105,coches.net,furgoneta
+nissan,nv400,16000.0,2021,114300.0,diesel,manual,115,coches.net,furgoneta
+peugeot,boxer,17300.0,2021,80500.0,diesel,manual,160,coches.net,furgoneta
+ford,transit,19100.0,2021,97100.0,electrico,manual,165,coches.net,furgoneta
+citroën,jumpy,15500.0,2022,98400.0,diesel,manual,155,coches.net,furgoneta
+citroën,berlingo,14300.0,2021,106500.0,diesel,automatica,100,coches.net,furgoneta
+man,tge,15500.0,2021,86000.0,diesel,manual,102,coches.net,furgoneta
+hyundai,h350,19200.0,2023,50300.0,diesel,manual,175,coches.net,furgoneta
+opel,vivaro,16000.0,2023,43300.0,diesel,manual,125,coches.net,furgoneta
+fiat,scudo,19700.0,2024,17200.0,gasolina,manual,140,coches.net,furgoneta
+opel,combo,18000.0,2022,92900.0,diesel,manual,115,coches.net,furgoneta
+renault,master,18000.0,2023,52200.0,hibrido,manual,135,coches.net,furgoneta
+iveco,daily,15800.0,2022,66300.0,gasolina,manual,130,coches.net,furgoneta
+mercedes-benz,vito,17500.0,2022,72700.0,diesel,manual,102,coches.net,furgoneta
+toyota,proace,19000.0,2022,59500.0,diesel,automatica,120,coches.net,furgoneta
+volkswagen,crafter,19900.0,2020,91900.0,diesel,manual,102,coches.net,furgoneta
+toyota,proace city,16700.0,2022,76100.0,diesel,manual,95,coches.net,furgoneta
+ford,transit,19100.0,2021,84600.0,diesel,manual,165,coches.net,furgoneta
+toyota,proace city,18500.0,2022,74600.0,electrico,manual,110,coches.net,furgoneta
+nissan,primastar,17600.0,2020,99800.0,diesel,manual,114,coches.net,furgoneta
+ford,transit,17700.0,2023,38000.0,diesel,manual,155,coches.net,furgoneta
+ford,transit courier,18000.0,2020,117700.0,gasolina,automatica,105,coches.net,furgoneta
+mercedes-benz,citan,11400.0,2020,109700.0,electrico,manual,120,coches.net,furgoneta
+fiat,scudo,13700.0,2023,51400.0,gasolina,manual,145,coches.net,furgoneta
+mercedes-benz,citan,19900.0,2021,94200.0,gasolina,manual,140,coches.net,furgoneta
+citroën,jumper,19400.0,2022,50500.0,diesel,manual,140,coches.net,furgoneta
+nissan,primastar,17300.0,2020,100300.0,hibrido,automatica,114,coches.net,furgoneta
+volkswagen,crafter,18900.0,2021,97400.0,diesel,automatica,177,coches.net,furgoneta
+fiat,doblo cargo,16200.0,2023,44400.0,diesel,automatica,90,coches.net,furgoneta
+ford,transit connect,10800.0,2020,107600.0,diesel,manual,120,coches.net,furgoneta
+peugeot,boxer,15600.0,2020,98000.0,hibrido,manual,130,coches.net,furgoneta
+citroën,jumpy,18500.0,2022,91400.0,gasolina,automatica,105,coches.net,furgoneta
+ford,transit connect,13200.0,2020,90500.0,gas,manual,105,coches.net,furgoneta
+citroën,jumper,12700.0,2021,106400.0,diesel,manual,130,coches.net,furgoneta
+peugeot,partner,18300.0,2020,76700.0,diesel,manual,95,coches.net,furgoneta
+volkswagen,caddy,17600.0,2021,90400.0,diesel,automatica,75,coches.net,furgoneta
+citroën,jumpy,12100.0,2021,103000.0,diesel,automatica,120,coches.net,furgoneta
+fiat,doblo cargo,18700.0,2023,53400.0,diesel,manual,110,coches.net,furgoneta
+peugeot,expert,13900.0,2022,60200.0,diesel,manual,120,coches.net,furgoneta
+toyota,proace city,13900.0,2022,58100.0,hibrido,manual,95,coches.net,furgoneta
+peugeot,expert,18700.0,2021,108700.0,gasolina,automatica,100,coches.net,furgoneta
+peugeot,expert,12300.0,2021,83400.0,diesel,manual,95,coches.net,furgoneta
+renault,trafic,19600.0,2021,90400.0,gasolina,manual,90,coches.net,furgoneta
+renault,master,14800.0,2022,79200.0,diesel,automatica,150,coches.net,furgoneta
+ford,transit,18300.0,2022,91500.0,gas,manual,155,coches.net,furgoneta
+fiat,doblo cargo,16400.0,2022,63700.0,diesel,manual,105,coches.net,furgoneta
+fiat,ducato,19400.0,2022,69900.0,diesel,manual,117,coches.net,furgoneta
+renault,master,17900.0,2021,89400.0,diesel,manual,105,coches.net,furgoneta
+volkswagen,transporter,18800.0,2021,115000.0,diesel,manual,199,coches.net,furgoneta
+opel,vivaro,11400.0,2020,91200.0,gasolina,manual,175,coches.net,furgoneta
+ford,transit,18700.0,2023,26500.0,diesel,manual,135,coches.net,furgoneta
+nissan,nv200,14100.0,2022,60400.0,diesel,manual,90,coches.net,furgoneta
+fiat,ducato,19900.0,2023,35000.0,diesel,manual,165,coches.net,furgoneta
+fiat,scudo,17900.0,2022,65700.0,diesel,automatica,145,coches.net,furgoneta
+citroën,jumpy,18100.0,2024,20800.0,gas,manual,120,coches.net,furgoneta
+peugeot,boxer,16100.0,2021,109500.0,gasolina,manual,130,coches.net,furgoneta
+peugeot,boxer,13500.0,2021,94600.0,gas,automatica,140,coches.net,furgoneta
+toyota,proace city,17900.0,2022,67300.0,hibrido,manual,110,coches.net,furgoneta
+renault,kangoo,19500.0,2021,93500.0,hibrido,manual,95,coches.net,furgoneta
+nissan,primastar,13900.0,2020,83800.0,diesel,manual,114,coches.net,furgoneta
+peugeot,boxer,18600.0,2021,108600.0,diesel,manual,125,coches.net,furgoneta
+renault,trafic,15600.0,2023,34800.0,diesel,automatica,150,coches.net,furgoneta
+opel,movano,18400.0,2023,31700.0,diesel,manual,168,coches.net,furgoneta
+renault,kangoo,17000.0,2020,84400.0,gas,manual,95,coches.net,furgoneta
+fiat,ducato,18300.0,2021,98200.0,diesel,manual,160,coches.net,furgoneta
+hyundai,staria,19200.0,2022,45700.0,diesel,manual,177,coches.net,furgoneta
+ford,transit courier,16700.0,2021,119400.0,gasolina,manual,95,coches.net,furgoneta
+nissan,primastar,15400.0,2020,102400.0,gasolina,manual,114,coches.net,furgoneta
+hyundai,staria,18200.0,2024,23800.0,diesel,manual,177,coches.net,furgoneta
+ford,transit courier,13200.0,2022,67300.0,diesel,manual,75,coches.net,furgoneta
+nissan,primastar,19600.0,2021,89600.0,diesel,manual,114,coches.net,furgoneta
+nissan,nv400,18700.0,2023,61700.0,diesel,manual,140,coches.net,furgoneta
+renault,master,16800.0,2022,71200.0,electrico,manual,135,coches.net,furgoneta
+peugeot,expert,16100.0,2023,45600.0,diesel,automatica,100,coches.net,furgoneta
+ford,transit courier,19900.0,2023,54100.0,gasolina,manual,105,coches.net,furgoneta
+mercedes-benz,vito,19700.0,2023,50300.0,diesel,automatica,75,coches.net,furgoneta
+citroën,jumper,17800.0,2021,118800.0,hibrido,manual,130,coches.net,furgoneta
+renault,trafic,15900.0,2023,46000.0,diesel,automatica,120,coches.net,furgoneta
+citroën,jumper,13100.0,2022,84000.0,electrico,manual,135,coches.net,furgoneta
+renault,trafic,18000.0,2021,77900.0,diesel,manual,145,coches.net,furgoneta
+opel,combo,17200.0,2021,107000.0,gasolina,manual,110,coches.net,furgoneta
+ford,transit connect,19500.0,2022,42100.0,diesel,automatica,125,coches.net,furgoneta
+ford,transit,17600.0,2020,119000.0,diesel,manual,160,coches.net,furgoneta
+ford,transit courier,18600.0,2021,58300.0,gasolina,automatica,100,coches.net,furgoneta
+opel,vivaro,16100.0,2021,92400.0,diesel,automatica,100,coches.net,furgoneta
+fiat,doblo cargo,17500.0,2021,109900.0,diesel,automatica,85,coches.net,furgoneta
+fiat,scudo,18400.0,2021,93400.0,diesel,manual,145,coches.net,furgoneta
+hyundai,staria,19100.0,2022,76200.0,diesel,manual,177,coches.net,furgoneta
+maxus,ev80,18000.0,2020,81100.0,electrico,manual,125,coches.net,furgoneta
+hyundai,h350,16100.0,2022,95300.0,diesel,manual,136,coches.net,furgoneta
+opel,movano,15800.0,2021,104100.0,diesel,manual,145,coches.net,furgoneta
+ford,transit courier,18800.0,2021,58000.0,diesel,manual,80,coches.net,furgoneta
+volkswagen,transporter,18800.0,2022,96000.0,diesel,automatica,150,coches.net,furgoneta
+renault,master,17100.0,2021,96200.0,diesel,manual,135,coches.net,furgoneta
+fiat,ducato,17100.0,2020,110600.0,diesel,automatica,160,coches.net,furgoneta
+volkswagen,transporter,18100.0,2021,106600.0,diesel,manual,204,coches.net,furgoneta
+nissan,primastar,14600.0,2022,70800.0,diesel,manual,119,coches.net,furgoneta
+mercedes-benz,sprinter,19700.0,2020,116100.0,gas,manual,100,coches.net,furgoneta
+toyota,proace,16300.0,2021,58200.0,electrico,manual,136,coches.net,furgoneta
+renault,master,16900.0,2020,82900.0,diesel,automatica,140,coches.net,furgoneta
+fiat,ducato,16500.0,2021,81400.0,diesel,manual,127,coches.net,furgoneta
+citroën,jumper,18200.0,2022,71700.0,diesel,manual,160,coches.net,furgoneta
+renault,kangoo,13100.0,2020,114200.0,electrico,manual,95,coches.net,furgoneta
+nissan,nv400,14400.0,2021,112100.0,diesel,automatica,145,coches.net,furgoneta
+ford,transit,19200.0,2022,83800.0,diesel,manual,155,coches.net,furgoneta
+renault,master,17800.0,2023,52600.0,diesel,automatica,180,coches.net,furgoneta
+toyota,proace,14100.0,2023,36200.0,diesel,manual,115,coches.net,furgoneta
+iveco,daily,16700.0,2022,64300.0,diesel,manual,75,coches.net,furgoneta
+opel,combo,19500.0,2021,104200.0,hibrido,manual,115,coches.net,furgoneta
+peugeot,partner,19500.0,2023,37200.0,gasolina,manual,110,coches.net,furgoneta
+toyota,proace city,13300.0,2021,79500.0,diesel,manual,110,coches.net,furgoneta
+fiat,doblo cargo,17700.0,2023,55600.0,gasolina,automatica,105,coches.net,furgoneta
+nissan,nv300,18500.0,2022,64400.0,diesel,manual,95,coches.net,furgoneta
+hyundai,h350,19800.0,2023,34100.0,hibrido,manual,136,coches.net,furgoneta
+nissan,nv200,17900.0,2020,110700.0,diesel,manual,90,coches.net,furgoneta
+citroën,jumper,18600.0,2022,89700.0,diesel,manual,145,coches.net,furgoneta
+ford,transit connect,16100.0,2020,104900.0,diesel,manual,100,coches.net,furgoneta
+iveco,daily,17600.0,2021,90600.0,electrico,manual,102,coches.net,furgoneta
+citroën,jumpy,11800.0,2023,43600.0,gasolina,manual,100,coches.net,furgoneta
+ford,transit connect,18400.0,2021,92900.0,diesel,manual,75,coches.net,furgoneta
+citroën,jumpy,17800.0,2022,45700.0,diesel,manual,120,coches.net,furgoneta
+ford,transit,19400.0,2021,96500.0,diesel,manual,130,coches.net,furgoneta
+fiat,ducato,18400.0,2021,98700.0,diesel,manual,155,coches.net,furgoneta
+peugeot,expert,19200.0,2021,96200.0,diesel,automatica,155,coches.net,furgoneta
+nissan,nv300,18200.0,2022,82600.0,diesel,manual,120,coches.net,furgoneta
+citroën,jumper,15900.0,2020,92500.0,diesel,manual,135,coches.net,furgoneta
+volkswagen,crafter,16800.0,2022,70000.0,diesel,manual,145,coches.net,furgoneta
+citroën,berlingo,18100.0,2021,81300.0,electrico,manual,136,coches.net,furgoneta
+toyota,proace city,14400.0,2021,84200.0,diesel,manual,100,coches.net,furgoneta
+peugeot,expert,18400.0,2022,63400.0,diesel,manual,100,coches.net,furgoneta
+hyundai,staria,13500.0,2022,65900.0,diesel,automatica,182,coches.net,furgoneta
+fiat,doblo cargo,19100.0,2023,47800.0,gasolina,manual,105,coches.net,furgoneta
+toyota,proace city,17100.0,2021,84900.0,diesel,manual,110,coches.net,furgoneta
+nissan,nv200,17300.0,2020,108000.0,diesel,manual,115,coches.net,furgoneta
+opel,vivaro,15200.0,2021,89200.0,diesel,manual,115,coches.net,furgoneta
+iveco,daily,19500.0,2021,103700.0,diesel,automatica,130,coches.net,furgoneta
+opel,combo,16300.0,2021,115000.0,diesel,manual,100,coches.net,furgoneta
+hyundai,h350,19800.0,2020,115000.0,diesel,manual,131,coches.net,furgoneta
+ford,transit courier,19500.0,2020,79900.0,diesel,manual,75,coches.net,furgoneta
+nissan,nv400,18800.0,2024,27300.0,diesel,manual,145,coches.net,furgoneta
+citroën,jumper,16800.0,2020,118100.0,diesel,manual,130,coches.net,furgoneta
+fiat,ducato,17400.0,2021,92100.0,diesel,manual,127,coches.net,furgoneta
+fiat,scudo,12300.0,2022,68300.0,diesel,manual,150,coches.net,furgoneta
+iveco,daily,15000.0,2022,58600.0,diesel,manual,130,coches.net,furgoneta
+mercedes-benz,vito,15500.0,2022,61200.0,diesel,manual,102,coches.net,furgoneta
+citroën,jumpy,17700.0,2022,64900.0,diesel,manual,100,coches.net,furgoneta
+citroën,jumper,15400.0,2020,65500.0,diesel,manual,130,coches.net,furgoneta
+ford,transit,18000.0,2021,72700.0,diesel,manual,155,coches.net,furgoneta
+opel,vivaro,17200.0,2021,79300.0,diesel,manual,175,coches.net,furgoneta
+citroën,jumpy,17900.0,2023,47600.0,diesel,manual,120,coches.net,furgoneta
+volkswagen,crafter,18900.0,2020,119800.0,diesel,automatica,182,coches.net,furgoneta
+renault,trafic,15500.0,2020,95800.0,gas,manual,115,coches.net,furgoneta
+ford,transit courier,12600.0,2020,98900.0,diesel,manual,70,coches.net,furgoneta
+mercedes-benz,citan,19800.0,2022,79800.0,diesel,automatica,90,coches.net,furgoneta
+ford,transit connect,12900.0,2022,78000.0,diesel,manual,120,coches.net,furgoneta
+ford,transit connect,18400.0,2020,116400.0,diesel,manual,75,coches.net,furgoneta
+peugeot,expert,15400.0,2024,22500.0,gasolina,manual,120,coches.net,furgoneta
+iveco,daily,16300.0,2023,53400.0,diesel,manual,150,coches.net,furgoneta
+hyundai,staria,18000.0,2024,26800.0,diesel,manual,177,coches.net,furgoneta
+man,tge,17500.0,2022,87200.0,diesel,automatica,140,coches.net,furgoneta
+iveco,daily,12800.0,2021,111800.0,diesel,automatica,140,coches.net,furgoneta
+man,tge,15400.0,2020,102400.0,diesel,manual,102,coches.net,furgoneta
+fiat,ducato,19900.0,2022,80300.0,diesel,manual,122,coches.net,furgoneta
+maxus,ev80,19900.0,2022,48400.0,electrico,manual,115,coches.net,furgoneta
+nissan,primastar,12600.0,2023,43600.0,diesel,manual,119,coches.net,furgoneta
+volkswagen,crafter,17100.0,2023,40900.0,diesel,manual,135,coches.net,furgoneta
+renault,trafic,14600.0,2022,65400.0,diesel,manual,145,coches.net,furgoneta
+iveco,daily,13900.0,2021,97200.0,diesel,automatica,110,coches.net,furgoneta
+citroën,jumpy,19900.0,2021,101800.0,diesel,manual,125,coches.net,furgoneta
+renault,master,12700.0,2020,101000.0,diesel,manual,110,coches.net,furgoneta
+fiat,doblo cargo,14400.0,2021,94200.0,gasolina,manual,110,coches.net,furgoneta
+renault,kangoo,18900.0,2020,102300.0,diesel,automatica,75,coches.net,furgoneta
+ford,transit,15400.0,2021,71500.0,electrico,manual,175,coches.net,furgoneta
+citroën,jumper,18100.0,2023,30100.0,diesel,manual,130,coches.net,furgoneta
+opel,vivaro,19000.0,2021,95700.0,diesel,manual,125,coches.net,furgoneta
+nissan,primastar,17300.0,2022,90300.0,diesel,automatica,119,coches.net,furgoneta
+ford,transit,17700.0,2023,50700.0,diesel,automatica,175,coches.net,furgoneta
+opel,movano,16600.0,2022,75800.0,diesel,manual,110,coches.net,furgoneta
+hyundai,h350,17700.0,2020,117100.0,diesel,automatica,136,coches.net,furgoneta
+ford,transit courier,18400.0,2021,62000.0,hibrido,automatica,75,coches.net,furgoneta
+peugeot,expert,16600.0,2021,54600.0,diesel,manual,100,coches.net,furgoneta
+nissan,nv400,16600.0,2021,69400.0,diesel,manual,140,coches.net,furgoneta
+ford,transit courier,12900.0,2020,113200.0,hibrido,manual,75,coches.net,furgoneta
+volkswagen,crafter,14700.0,2022,69200.0,diesel,manual,135,coches.net,furgoneta
+hyundai,staria,17500.0,2022,109700.0,diesel,manual,177,coches.net,furgoneta
+fiat,scudo,17700.0,2024,19300.0,diesel,manual,150,coches.net,furgoneta
+mercedes-benz,citan,11300.0,2022,55900.0,diesel,manual,110,coches.net,furgoneta
+peugeot,expert,17700.0,2021,99300.0,diesel,manual,100,coches.net,furgoneta
+peugeot,partner,13300.0,2021,69700.0,diesel,manual,100,coches.net,furgoneta
+renault,master,18300.0,2021,82100.0,hibrido,manual,145,coches.net,furgoneta
+renault,trafic,16400.0,2022,91400.0,diesel,manual,120,coches.net,furgoneta
+opel,movano,18900.0,2023,60100.0,diesel,automatica,140,coches.net,furgoneta
+volkswagen,caddy,14600.0,2022,67100.0,diesel,manual,102,coches.net,furgoneta
+iveco,daily,19300.0,2023,45200.0,diesel,manual,130,coches.net,furgoneta
+nissan,nv400,16300.0,2024,23100.0,gasolina,manual,105,coches.net,furgoneta
+ford,transit courier,18500.0,2023,55700.0,gasolina,manual,70,coches.net,furgoneta
+iveco,daily,11600.0,2022,49200.0,diesel,automatica,110,coches.net,furgoneta
+opel,combo,17100.0,2023,53600.0,diesel,manual,105,coches.net,furgoneta
+iveco,daily,11800.0,2022,72100.0,diesel,automatica,90,coches.net,furgoneta
+renault,kangoo,19200.0,2023,47900.0,diesel,manual,80,coches.net,furgoneta
+ford,transit courier,11400.0,2020,110000.0,gasolina,manual,100,coches.net,furgoneta
+renault,master,15300.0,2021,119500.0,diesel,manual,185,coches.net,furgoneta
+renault,trafic,17300.0,2023,44800.0,gas,automatica,90,coches.net,furgoneta
+peugeot,expert,17400.0,2023,55700.0,diesel,manual,150,coches.net,furgoneta
+citroën,berlingo,12600.0,2020,81800.0,electrico,manual,136,coches.net,furgoneta
+citroën,berlingo,15500.0,2021,72200.0,electrico,manual,131,coches.net,furgoneta
+renault,master,17500.0,2021,115100.0,diesel,automatica,185,coches.net,furgoneta
+citroën,jumper,11900.0,2020,54000.0,diesel,manual,125,coches.net,furgoneta
+citroën,jumpy,19700.0,2021,55600.0,diesel,automatica,100,coches.net,furgoneta
+iveco,daily,15800.0,2024,22600.0,diesel,manual,130,coches.net,furgoneta
+renault,master,19300.0,2023,48400.0,diesel,manual,110,coches.net,furgoneta
+opel,vivaro,16700.0,2021,110400.0,gasolina,manual,100,coches.net,furgoneta
+nissan,nv200,16800.0,2022,68400.0,diesel,manual,90,coches.net,furgoneta
+hyundai,staria,14500.0,2020,109900.0,diesel,manual,177,coches.net,furgoneta
+volkswagen,transporter,14700.0,2021,106400.0,diesel,manual,209,coches.net,furgoneta
+nissan,nv400,11100.0,2020,84200.0,diesel,manual,115,coches.net,furgoneta
+citroën,jumper,17700.0,2020,106200.0,diesel,manual,130,coches.net,furgoneta
+toyota,proace city,19400.0,2022,73200.0,diesel,automatica,95,coches.net,furgoneta
+mercedes-benz,vito,18500.0,2022,76600.0,diesel,manual,130,coches.net,furgoneta
+ford,transit,18700.0,2022,91700.0,diesel,manual,170,coches.net,furgoneta
+renault,master,19600.0,2023,27500.0,hibrido,automatica,115,coches.net,furgoneta
+hyundai,h350,17500.0,2020,95000.0,diesel,manual,136,coches.net,furgoneta
+iveco,daily,10600.0,2021,102200.0,diesel,automatica,75,coches.net,furgoneta
+toyota,proace,18900.0,2021,98200.0,electrico,manual,136,coches.net,furgoneta
+volkswagen,caddy,19800.0,2024,16400.0,gasolina,manual,75,coches.net,furgoneta
+volkswagen,transporter,16500.0,2021,116700.0,diesel,automatica,110,coches.net,furgoneta
+renault,trafic,19100.0,2023,34900.0,diesel,automatica,145,coches.net,furgoneta
+fiat,doblo cargo,11800.0,2022,70600.0,diesel,manual,105,coches.net,furgoneta
+peugeot,boxer,16700.0,2020,118000.0,diesel,automatica,135,coches.net,furgoneta
+citroën,berlingo,12000.0,2020,93600.0,diesel,automatica,100,coches.net,furgoneta
+nissan,primastar,19400.0,2023,41900.0,diesel,manual,119,coches.net,furgoneta
+hyundai,staria,18000.0,2022,49600.0,diesel,automatica,182,coches.net,furgoneta
+renault,master,17200.0,2021,90300.0,gasolina,manual,135,coches.net,furgoneta
+fiat,ducato,15700.0,2021,107600.0,diesel,manual,135,coches.net,furgoneta
+opel,vivaro,18300.0,2021,109100.0,diesel,manual,185,coches.net,furgoneta
+fiat,doblo cargo,17000.0,2023,29300.0,electrico,manual,85,coches.net,furgoneta
+hyundai,staria,18500.0,2023,50900.0,diesel,manual,177,coches.net,furgoneta
+mercedes-benz,sprinter,18300.0,2021,66000.0,gas,manual,100,coches.net,furgoneta
+citroën,jumper,19900.0,2021,85200.0,diesel,manual,130,coches.net,furgoneta
+fiat,ducato,19300.0,2022,57400.0,diesel,manual,125,coches.net,furgoneta
+volkswagen,transporter,19700.0,2022,85100.0,diesel,manual,150,coches.net,furgoneta
+mercedes-benz,citan,19900.0,2023,42400.0,hibrido,manual,100,coches.net,furgoneta
+citroën,jumpy,18900.0,2023,56200.0,diesel,manual,100,coches.net,furgoneta
+hyundai,staria,14700.0,2020,86800.0,hibrido,manual,177,coches.net,furgoneta
+citroën,jumpy,14100.0,2022,52800.0,gasolina,automatica,100,coches.net,furgoneta
+fiat,doblo cargo,18800.0,2021,89800.0,diesel,manual,105,coches.net,furgoneta
+renault,master,18000.0,2022,73300.0,diesel,automatica,145,coches.net,furgoneta
+peugeot,partner,19400.0,2020,119600.0,electrico,automatica,131,coches.net,furgoneta
+nissan,primastar,17000.0,2023,33500.0,diesel,manual,114,coches.net,furgoneta
+maxus,deliver 9,17000.0,2023,45900.0,electrico,manual,120,coches.net,furgoneta
+opel,movano,14400.0,2023,53700.0,hibrido,manual,150,coches.net,furgoneta
+renault,master,19000.0,2021,105300.0,diesel,manual,185,coches.net,furgoneta
+mercedes-benz,vito,17700.0,2020,100300.0,diesel,automatica,120,coches.net,furgoneta
+renault,kangoo,16900.0,2022,81400.0,diesel,manual,90,coches.net,furgoneta
+ford,transit,18400.0,2021,89200.0,diesel,manual,130,coches.net,furgoneta
+peugeot,boxer,14000.0,2021,61600.0,diesel,automatica,165,coches.net,furgoneta
+renault,kangoo,14600.0,2021,102900.0,diesel,manual,75,coches.net,furgoneta
+hyundai,h350,17900.0,2022,56800.0,hibrido,manual,136,coches.net,furgoneta
+renault,kangoo,18100.0,2023,50800.0,diesel,manual,100,coches.net,furgoneta
+peugeot,expert,15000.0,2022,66500.0,diesel,manual,100,coches.net,furgoneta
+nissan,nv200,19000.0,2021,99300.0,hibrido,automatica,110,coches.net,furgoneta
+toyota,proace city,14900.0,2021,111100.0,hibrido,manual,110,coches.net,furgoneta
+toyota,proace city,14000.0,2020,104400.0,diesel,manual,110,coches.net,furgoneta
+ford,transit,16400.0,2022,61400.0,diesel,automatica,170,coches.net,furgoneta
+volkswagen,transporter,17600.0,2022,60900.0,diesel,manual,150,coches.net,furgoneta
+peugeot,partner,11500.0,2021,74700.0,gasolina,automatica,110,coches.net,furgoneta
+ford,transit courier,16800.0,2020,107500.0,gasolina,manual,100,coches.net,furgoneta
+peugeot,2008,13990.0,2021,55000.0,gasolina,manual,100,coches.net,utilitario
+volkswagen,t-roc,19990.0,2021,99000.0,gasolina,manual,110,coches.net,utilitario
+jeep,avenger,16990.0,2024,71000.0,gasolina,manual,100,coches.net,utilitario
+hyundai,i10,10990.0,2023,73000.0,gasolina,manual,67,coches.net,berlina
+hyundai,i10,10990.0,2023,72000.0,gasolina,manual,67,coches.net,berlina
+seat,ibiza,18690.0,2025,17311.0,gasolina,manual,115,coches.net,berlina
+bmw,serie 1,16990.0,2020,112676.0,diesel,manual,116,coches.net,berlina
+opel,corsa,13900.0,2022,29000.0,diesel,manual,102,coches.net,berlina
+citroen,c4,15400.0,2021,64400.0,diesel,automatica,130,coches.net,berlina
+toyota,yaris,16990.0,2022,48000.0,hibrido,automatica,116,coches.net,berlina
+bmw,serie 1,19900.0,2021,97400.0,diesel,manual,116,coches.net,berlina
+ford,kuga,19490.0,2021,64982.0,hibrido,automatica,225,coches.net,utilitario
+mg,mg3,14290.0,2025,9136.0,gasolina,manual,116,coches.net,berlina
+seat,ibiza,12900.0,2020,13400.0,gasolina,manual,80,coches.net,berlina
+citroen,c3 aircross,14290.0,2023,35225.0,gasolina,manual,110,coches.net,utilitario
+fiat,panda,11290.0,2023,54149.0,hibrido,manual,70,coches.net,berlina
+volkswagen,polo,14990.0,2022,66000.0,gasolina,manual,95,coches.net,berlina
+volkswagen,t-cross,16985.0,2023,75230.0,gasolina,manual,95,coches.net,utilitario
+dacia,spring,12985.0,2023,92.0,electrico,automatica,65,coches.net,berlina
+citroen,c3 aircross,12990.0,2022,71628.0,gasolina,manual,110,coches.net,utilitario
+renault,mégane,17750.0,2021,99990.0,hibrido,automatica,160,coches.net,berlina
+volkswagen,golf,14550.0,2020,34000.0,electrico,automatica,136,coches.net,berlina
+opel,combo life,19985.0,2023,35331.0,diesel,manual,102,coches.net,utilitario
+seat,arona,19390.0,2025,10350.0,gasolina,manual,115,coches.net,utilitario
+seat,ateca,17990.0,2020,58598.0,gasolina,manual,115,coches.net,utilitario
+skoda,kamiq,18990.0,2024,84789.0,gasolina,automatica,150,coches.net,utilitario
+opel,frontera,19990.0,2025,7300.0,hibrido,automatica,136,coches.net,utilitario
+toyota,corolla,19990.0,2021,79195.0,hibrido,automatica,122,coches.net,berlina
+kia,picanto,10490.0,2021,36752.0,gasolina,manual,67,coches.net,berlina
+citroen,berlingo,13990.0,2021,113000.0,diesel,manual,102,coches.net,utilitario
+peugeot,rifter,14490.0,2020,83000.0,diesel,manual,100,coches.net,utilitario
+volkswagen,polo,15985.0,2023,54364.0,gasolina,manual,95,coches.net,berlina
+volkswagen,t-roc,17900.0,2020,77200.0,gasolina,manual,115,coches.net,utilitario
+fiat,500,15390.0,2023,18475.0,electrico,automatica,118,coches.net,berlina
+kia,stonic,15990.0,2024,38000.0,gasolina,manual,100,coches.net,utilitario
+renault,clio,15990.0,2024,32734.0,gasolina,manual,90,coches.net,berlina
+peugeot,3008,19990.0,2022,19103.0,gasolina,manual,130,coches.net,utilitario
+audi,q2,19990.0,2020,65216.0,diesel,automatica,116,coches.net,utilitario
+peugeot,3008,16950.0,2022,98000.0,diesel,manual,130,coches.net,utilitario
+seat,ibiza,12499.0,2022,63000.0,gasolina,manual,80,coches.net,berlina
+opel,crossland,14490.0,2024,20593.0,gasolina,manual,110,coches.net,utilitario
+ford,fiesta,16490.0,2023,48281.0,hibrido,manual,125,coches.net,berlina
+seat,arona,15600.0,2022,90493.0,gasolina,manual,110,coches.net,utilitario
+peugeot,rifter,13990.0,2022,110000.0,diesel,manual,100,coches.net,utilitario
+hyundai,i10,10490.0,2022,84000.0,gasolina,manual,67,coches.net,berlina
+fiat,panda,10985.0,2023,57510.0,hibrido,manual,70,coches.net,berlina
+toyota,yaris,15985.0,2022,74107.0,hibrido,automatica,116,coches.net,berlina
+opel,insignia,13990.0,2020,97000.0,diesel,manual,136,coches.net,berlina
+citroen,berlingo,13990.0,2020,96245.0,diesel,manual,102,coches.net,utilitario
+fiat,500,18990.0,2026,2000.0,hibrido,manual,65,coches.net,berlina
+seat,arona,12900.0,2020,102000.0,gasolina,manual,95,coches.net,utilitario
+citroen,c3 aircross,18500.0,2025,22281.0,gasolina,manual,100,coches.net,utilitario
+opel,corsa,16900.0,2025,5219.0,gasolina,manual,100,coches.net,berlina
+fiat,500c,10990.0,2021,94019.0,hibrido,manual,70,coches.net,berlina
+citroen,c3,11800.0,2023,56000.0,diesel,manual,102,coches.net,berlina
+renault,clio,16990.0,2022,71000.0,hibrido,automatica,140,coches.net,berlina
+seat,arona,19900.0,2024,25619.0,gasolina,manual,110,coches.net,utilitario
+citroen,c4,15990.0,2022,47480.0,gasolina,manual,130,coches.net,berlina
+mg,mg3 hybrid+,16890.0,2024,13565.0,hibrido,automatica,195,coches.net,berlina
+volkswagen,t-cross,15490.0,2020,81973.0,diesel,manual,95,coches.net,utilitario
+mg,mg3,18990.0,2025,13750.0,hibrido,automatica,195,coches.net,berlina
+toyota,yaris,17599.0,2022,114990.0,hibrido,automatica,116,coches.net,berlina
+kia,xceed,17990.0,2024,38345.0,gasolina,manual,100,coches.net,utilitario
+toyota,yaris,17290.0,2021,43407.0,hibrido,automatica,116,coches.net,berlina
+dacia,sandero,11400.0,2022,65225.0,gas,manual,101,coches.net,berlina
+skoda,fabia,15985.0,2024,15904.0,gasolina,manual,95,coches.net,berlina
+volkswagen,polo,15890.0,2022,63559.0,gasolina,manual,95,coches.net,berlina
+fiat,500,11400.0,2021,28894.0,hibrido,manual,70,coches.net,berlina
+nissan,micra,12607.0,2022,83120.0,gasolina,automatica,92,coches.net,berlina
+seat,ibiza,13990.0,2022,75000.0,gasolina,manual,110,coches.net,berlina
+seat,ibiza,14990.0,2021,70758.0,gasolina,manual,110,coches.net,berlina
+ford,focus,13490.0,2021,114790.0,gasolina,manual,125,coches.net,berlina
+renault,mégane,14990.0,2020,63132.0,diesel,manual,95,coches.net,berlina
+ford,focus,16990.0,2023,54000.0,hibrido,manual,155,coches.net,berlina
+seat,ateca,18990.0,2020,42000.0,gasolina,manual,115,coches.net,utilitario
+bmw,serie 2 active tourer,17990.0,2021,99000.0,diesel,manual,116,coches.net,utilitario
+peugeot,2008,16990.0,2020,45300.0,gasolina,automatica,130,coches.net,utilitario
+toyota,yaris,16990.0,2024,63000.0,gasolina,manual,125,coches.net,berlina
+peugeot,2008,13990.0,2021,47767.0,gasolina,manual,100,coches.net,utilitario
+volkswagen,taigo,19290.0,2024,56731.0,gasolina,manual,110,coches.net,utilitario
+fiat,500c,11990.0,2022,65098.0,hibrido,manual,70,coches.net,berlina
+kia,ceed,16990.0,2023,43000.0,gasolina,manual,100,coches.net,berlina
+bmw,serie 1,18250.0,2021,93266.0,diesel,automatica,116,coches.net,berlina
+citroen,c5 aircross,15990.0,2021,96150.0,diesel,manual,131,coches.net,utilitario
+mg,zs,17500.0,2025,12144.0,gasolina,automatica,111,coches.net,utilitario
+volkswagen,golf,18850.0,2021,93703.0,diesel,manual,115,coches.net,berlina
+mg,zs,16790.0,2025,15914.0,gasolina,manual,106,coches.net,utilitario
+citroen,c4,16990.0,2021,45000.0,diesel,automatica,130,coches.net,berlina
+citroen,c3,11900.0,2023,78691.0,gasolina,manual,83,coches.net,berlina
+renault,clio,12700.0,2022,74179.0,diesel,manual,100,coches.net,berlina
+volkswagen,t-cross,19900.0,2022,53000.0,gasolina,automatica,110,coches.net,utilitario
+peugeot,2008,14190.0,2022,33000.0,gasolina,manual,100,coches.net,utilitario
+citroen,c3,10190.0,2022,50000.0,gasolina,manual,83,coches.net,berlina
+fiat,panda,11995.0,2022,67000.0,hibrido,manual,70,coches.net,berlina
+renault,arkana,15850.0,2021,119000.0,hibrido,automatica,145,coches.net,utilitario
+ford,focus,18950.0,2022,46000.0,hibrido,manual,155,coches.net,berlina
+ford,puma,16090.0,2022,94000.0,diesel,manual,120,coches.net,utilitario
+mazda,cx-30,19390.0,2020,79000.0,hibrido,manual,122,coches.net,utilitario
+opel,corsa,10790.0,2021,70033.0,gasolina,manual,100,coches.net,berlina
+renault,clio,12490.0,2022,92112.0,gasolina,manual,90,coches.net,berlina
+volkswagen,polo,13990.0,2021,70000.0,gasolina,manual,95,coches.net,berlina
+fiat,500x,15990.0,2022,71000.0,gasolina,manual,120,coches.net,utilitario
+skoda,fabia,14400.0,2022,33700.0,gasolina,manual,80,coches.net,berlina
+citroen,c4,14990.0,2022,32424.0,gasolina,manual,130,coches.net,berlina
+kia,niro,19975.0,2023,68000.0,hibrido,automatica,141,coches.net,berlina
+toyota,yaris,14990.0,2020,40000.0,hibrido,automatica,100,coches.net,berlina
+ford,fiesta,10190.0,2021,117258.0,gasolina,manual,75,coches.net,berlina
+ford,focus,18490.0,2023,68688.0,hibrido,manual,155,coches.net,berlina
+renault,clio,12990.0,2023,74000.0,gasolina,manual,90,coches.net,berlina
+kia,stonic,13990.0,2022,72000.0,gasolina,manual,100,coches.net,utilitario
+renault,clio,10700.0,2020,99300.0,diesel,manual,85,coches.net,berlina
+seat,arona,19500.0,2025,21762.0,gasolina,manual,115,coches.net,utilitario
+skoda,kamiq,16300.0,2021,65000.0,gasolina,automatica,110,coches.net,utilitario
+audi,q2,19950.0,2020,99000.0,diesel,automatica,116,coches.net,utilitario
+mazda,cx-30,18950.0,2023,71000.0,hibrido,manual,122,coches.net,utilitario
+volkswagen,t-roc,14990.0,2021,94000.0,gasolina,manual,110,coches.net,utilitario
+seat,león,16990.0,2022,98000.0,hibrido,automatica,204,coches.net,berlina
+audi,a1,17990.0,2022,65000.0,gasolina,manual,95,coches.net,berlina
+mg,zs,15490.0,2025,11292.0,gasolina,manual,106,coches.net,utilitario
+nissan,qashqai,16990.0,2020,120000.0,gasolina,manual,140,coches.net,berlina
+skoda,fabia,15990.0,2021,39000.0,gasolina,manual,95,coches.net,berlina
+peugeot,3008,18480.0,2022,80547.0,diesel,manual,130,coches.net,utilitario
+dacia,duster,15290.0,2020,52679.0,diesel,manual,95,coches.net,utilitario
+kia,stonic,13900.0,2024,89000.0,gasolina,manual,84,coches.net,utilitario
+citroen,berlingo,16990.0,2020,12000.0,diesel,manual,102,coches.net,utilitario
+opel,mokka,15950.0,2022,40000.0,diesel,manual,110,coches.net,utilitario
+volkswagen,polo,15985.0,2023,38711.0,gasolina,manual,95,coches.net,berlina
+opel,grandland x,13900.0,2021,84731.0,diesel,manual,130,coches.net,utilitario
+audi,a1,19490.0,2020,66235.0,gasolina,automatica,116,coches.net,berlina
+jeep,renegade,18390.0,2022,66317.0,diesel,manual,130,coches.net,utilitario
+toyota,yaris,15950.0,2020,19923.0,hibrido,automatica,100,coches.net,berlina
+peugeot,3008,17490.0,2021,71708.0,diesel,manual,130,coches.net,utilitario
+renault,clio,12200.0,2022,46733.0,gasolina,manual,65,coches.net,berlina
+seat,ibiza,19300.0,2025,14500.0,gasolina,manual,115,coches.net,berlina
+peugeot,3008 hybrid,19990.0,2021,50832.0,hibrido,automatica,225,coches.net,utilitario
+hyundai,i20,13490.0,2022,79130.0,gasolina,manual,100,coches.net,berlina
+volkswagen,polo,18985.0,2026,10225.0,gasolina,manual,95,coches.net,berlina
+volkswagen,polo,13485.0,2023,98702.0,gasolina,manual,95,coches.net,berlina
+citroen,c3 aircross,13900.0,2020,40000.0,diesel,manual,102,coches.net,utilitario
+nissan,qashqai,16990.0,2020,98717.0,diesel,manual,115,coches.net,berlina
+kia,sportage,18485.0,2021,58883.0,hibrido,manual,136,coches.net,utilitario
+opel,corsa,14999.0,2022,55512.0,diesel,manual,102,coches.net,berlina
+citroen,c3,12900.0,2023,76125.0,diesel,manual,102,coches.net,berlina
+peugeot,208,13485.0,2023,46789.0,gasolina,manual,100,coches.net,berlina
+peugeot,308,11890.0,2021,92689.0,diesel,manual,130,coches.net,berlina
+ford,focus,14699.0,2020,102756.0,diesel,manual,120,coches.net,berlina
+opel,corsa,12350.0,2023,74881.0,gasolina,manual,100,coches.net,berlina
+nissan,micra,11990.0,2021,75059.0,gasolina,manual,92,coches.net,berlina
+hyundai,i20,17990.0,2021,28842.0,hibrido,automatica,100,coches.net,berlina
+hyundai,kona,19990.0,2020,85853.0,hibrido,automatica,141,coches.net,utilitario
+opel,corsa,10985.0,2022,26688.0,gasolina,manual,100,coches.net,berlina
+hyundai,i20,13985.0,2022,29000.0,gasolina,manual,84,coches.net,berlina
+mazda,mazda2,16990.0,2022,50202.0,hibrido,manual,90,coches.net,berlina
+bmw,serie 1,17490.0,2021,94000.0,diesel,manual,116,coches.net,berlina
+nissan,juke,15990.0,2021,24678.0,gasolina,manual,114,coches.net,utilitario
+peugeot,rifter,15490.0,2022,69987.0,diesel,automatica,100,coches.net,utilitario
+opel,corsa-e,16250.0,2024,47000.0,electrico,automatica,136,coches.net,berlina
+toyota,c-hr,18990.0,2021,113776.0,hibrido,automatica,122,coches.net,berlina
+kia,rio,12985.0,2022,71086.0,gasolina,manual,84,coches.net,berlina
+peugeot,208,13485.0,2023,44389.0,gasolina,manual,100,coches.net,berlina
+seat,león,17900.0,2022,64425.0,diesel,manual,115,coches.net,berlina
+volkswagen,t-cross,16800.0,2022,60497.0,gasolina,manual,95,coches.net,utilitario
+peugeot,308,15000.0,2022,49000.0,gasolina,manual,130,coches.net,berlina
+citroen,c4,13995.0,2021,38477.0,gasolina,manual,100,coches.net,berlina
+citroen,c3 aircross,11600.0,2023,96000.0,gasolina,manual,110,coches.net,utilitario
+peugeot,3008,16999.0,2021,67374.0,diesel,manual,130,coches.net,utilitario
+renault,kangoo,11990.0,2021,57000.0,diesel,manual,105,coches.net,utilitario
+toyota,yaris,15990.0,2023,72000.0,gasolina,manual,125,coches.net,berlina
+bmw,x1,19990.0,2020,114418.0,diesel,automatica,116,coches.net,utilitario
+volkswagen,t-cross,18950.0,2025,25933.0,gasolina,manual,95,coches.net,utilitario
+toyota,yaris,18990.0,2025,17000.0,hibrido,automatica,116,coches.net,berlina
+bmw,serie 2 active tourer,15985.0,2022,117776.0,hibrido,automatica,220,coches.net,utilitario
+peugeot,208,13485.0,2023,47288.0,gasolina,manual,100,coches.net,berlina
+toyota,c-hr,19985.0,2020,88024.0,hibrido,automatica,122,coches.net,berlina
+citroen,c3,11985.0,2023,43734.0,gasolina,manual,83,coches.net,berlina
+peugeot,308,15500.0,2022,89254.0,diesel,manual,130,coches.net,berlina
+citroen,berlingo,16900.0,2021,100000.0,diesel,manual,102,coches.net,utilitario
+peugeot,3008,18490.0,2022,79812.0,diesel,manual,130,coches.net,utilitario
+ford,fiesta,15480.0,2020,9000.0,gasolina,manual,95,coches.net,berlina
+citroen,c4,16950.0,2024,16183.0,gasolina,manual,131,coches.net,berlina
+kia,sportage,18800.0,2020,89940.0,hibrido,manual,136,coches.net,utilitario
+ford,kuga,19300.0,2022,62482.0,gasolina,manual,150,coches.net,utilitario
+renault,zoe,15900.0,2021,55659.0,electrico,automatica,108,coches.net,berlina
+kia,xceed,19200.0,2024,47804.0,gasolina,manual,100,coches.net,utilitario
+dfsk,500,16985.0,2023,40790.0,gasolina,automatica,114,coches.net,utilitario
+seat,arona,12490.0,2022,82600.0,gas,manual,90,coches.net,utilitario
+seat,león,14985.0,2021,77107.0,gasolina,manual,130,coches.net,berlina
+opel,corsa,11985.0,2022,9946.0,gasolina,manual,100,coches.net,berlina
+citroen,c3,11985.0,2023,37837.0,gasolina,manual,83,coches.net,berlina
+opel,corsa,10780.0,2022,69646.0,diesel,manual,102,coches.net,berlina
+peugeot,rifter,16800.0,2022,57041.0,diesel,manual,100,coches.net,utilitario
+citroen,c1,10900.0,2022,73000.0,gasolina,manual,72,coches.net,berlina
+opel,corsa-e,19890.0,2021,17726.0,electrico,automatica,136,coches.net,berlina
+opel,astra,12900.0,2020,45337.0,gasolina,manual,110,coches.net,berlina
+seat,león,17900.0,2021,90000.0,diesel,manual,115,coches.net,berlina
+seat,arona,16790.0,2022,72000.0,gasolina,automatica,110,coches.net,utilitario
+mazda,cx-30,19900.0,2020,98000.0,gasolina,manual,122,coches.net,utilitario
+peugeot,3008,15390.0,2022,108536.0,gasolina,manual,130,coches.net,utilitario
+bmw,serie 2 active tourer,16900.0,2020,120000.0,diesel,manual,116,coches.net,utilitario
+toyota,aygo x cross,16490.0,2025,11014.0,gasolina,manual,72,coches.net,utilitario
+toyota,aygo x cross,16290.0,2024,19353.0,gasolina,manual,72,coches.net,utilitario
+peugeot,308,12900.0,2021,71000.0,gasolina,automatica,130,coches.net,berlina
+renault,clio,16660.0,2024,17703.0,gasolina,manual,90,coches.net,berlina
+kia,sportage,18490.0,2021,60304.0,gasolina,manual,132,coches.net,utilitario
+mg,zs,18990.0,2025,15876.0,gasolina,manual,106,coches.net,utilitario
+mg,mg3 hybrid+,18290.0,2025,24877.0,hibrido,automatica,195,coches.net,berlina
+kia,picanto,12990.0,2021,43959.0,gasolina,manual,67,coches.net,berlina
+fiat,tipo,12990.0,2022,71961.0,gasolina,manual,101,coches.net,berlina
+kia,picanto,11490.0,2022,21866.0,gasolina,manual,67,coches.net,berlina
+citroen,c3,13990.0,2023,38016.0,gasolina,automatica,110,coches.net,berlina
+opel,corsa,10200.0,2020,43300.0,gasolina,manual,75,coches.net,berlina
+fiat,500,11450.0,2021,52194.0,hibrido,manual,70,coches.net,berlina
+nissan,qashqai,17890.0,2022,99700.0,hibrido,manual,140,coches.net,utilitario
+ssangyong,tivoli,12750.0,2020,79487.0,gasolina,manual,128,coches.net,utilitario
+renault,clio,12990.0,2022,68119.0,diesel,manual,100,coches.net,berlina
+renault,mégane,14900.0,2021,58750.0,diesel,manual,115,coches.net,berlina
+citroen,c4,14900.0,2024,76765.0,gasolina,manual,130,coches.net,berlina
+renault,clio,19900.0,2025,23500.0,gas,manual,100,coches.net,berlina
+citroen,c3,10800.0,2022,47725.0,gasolina,manual,83,coches.net,berlina
+citroen,c3,13800.0,2023,23322.0,diesel,manual,102,coches.net,berlina
+seat,ibiza,11290.0,2020,66851.0,gas,manual,90,coches.net,berlina
+peugeot,3008,16350.0,2021,85805.0,diesel,manual,130,coches.net,utilitario
+skoda,fabia,19450.0,2025,5329.0,gasolina,manual,115,coches.net,berlina
+citroen,c3 aircross,17900.0,2023,25500.0,diesel,manual,110,coches.net,utilitario
+ds,ds 3,16900.0,2023,21000.0,gasolina,automatica,130,coches.net,utilitario
+opel,corsa,11900.0,2022,38000.0,gasolina,manual,100,coches.net,berlina
+opel,astra,17490.0,2023,49127.0,gasolina,automatica,130,coches.net,berlina
+citroen,c4,13790.0,2021,94888.0,diesel,manual,110,coches.net,berlina
+seat,mii,11290.0,2021,55026.0,electrico,automatica,83,coches.net,berlina
+ford,ecosport,14490.0,2021,23966.0,gasolina,manual,100,coches.net,utilitario
+renault,captur,18290.0,2022,90295.0,hibrido,automatica,160,coches.net,utilitario
+volkswagen,t-cross,18900.0,2023,78998.0,gasolina,automatica,110,coches.net,utilitario
+peugeot,508,17750.0,2022,87052.0,diesel,automatica,130,coches.net,berlina
+ds,ds 4,19990.0,2022,63527.0,diesel,automatica,130,coches.net,berlina
+peugeot,2008,18290.0,2024,24214.0,gasolina,automatica,130,coches.net,utilitario
+peugeot,2008,18290.0,2024,29480.0,gasolina,automatica,130,coches.net,utilitario
+peugeot,208,12900.0,2022,52800.0,gasolina,manual,100,coches.net,berlina
+peugeot,508,13950.0,2021,99999.0,diesel,automatica,130,coches.net,berlina
+opel,crossland,13490.0,2023,24264.0,gasolina,manual,110,coches.net,utilitario
+opel,grandland x,13990.0,2020,59467.0,gasolina,manual,130,coches.net,utilitario
+citroen,c3 aircross,11290.0,2021,114486.0,gasolina,manual,110,coches.net,utilitario
+volkswagen,polo,17490.0,2022,54872.0,gasolina,manual,95,coches.net,berlina
+volkswagen,polo,16485.0,2021,25200.0,gasolina,manual,95,coches.net,berlina
+opel,corsa,13990.0,2024,45300.0,gasolina,manual,100,coches.net,berlina
+hyundai,i10,11900.0,2022,61800.0,gasolina,manual,67,coches.net,berlina
+hyundai,i10,11900.0,2022,88000.0,gasolina,manual,67,coches.net,berlina
+mg,zs,15490.0,2025,11725.0,gasolina,manual,106,coches.net,utilitario
+mg,zs,15490.0,2025,10765.0,gasolina,manual,106,coches.net,utilitario
+toyota,aygo x cross,11790.0,2022,74200.0,gasolina,manual,72,coches.net,utilitario
+citroen,c3 aircross,11650.0,2020,110000.0,diesel,automatica,120,coches.net,utilitario
+ford,focus,11850.0,2020,119000.0,diesel,manual,120,coches.net,berlina
+peugeot,508,16750.0,2022,29000.0,diesel,automatica,130,coches.net,berlina
+citroen,c3,11990.0,2023,36000.0,gasolina,manual,83,coches.net,berlina
+ssangyong,tivoli,15890.0,2021,35813.0,gasolina,manual,128,coches.net,utilitario
+peugeot,2008,11990.0,2020,98279.0,gasolina,manual,100,coches.net,utilitario
+peugeot,108,10609.0,2021,50849.0,gasolina,manual,72,coches.net,berlina
+toyota,corolla,18990.0,2021,88517.0,hibrido,automatica,122,coches.net,berlina
+opel,corsa,15850.0,2022,41263.0,diesel,manual,102,coches.net,berlina
+citroen,c4,16990.0,2022,62389.0,diesel,automatica,130,coches.net,berlina
+kia,stonic,14450.0,2022,58166.0,gasolina,manual,84,coches.net,utilitario
+renault,mégane,18990.0,2024,39879.0,diesel,automatica,115,coches.net,berlina
+ford,focus,17990.0,2023,57839.0,hibrido,manual,125,coches.net,berlina
+bmw,serie 1,19990.0,2022,72761.0,diesel,manual,116,coches.net,berlina
+skoda,scala,12950.0,2022,33000.0,gas,manual,90,coches.net,berlina
+peugeot,3008 hybrid,17750.0,2021,79000.0,hibrido,automatica,225,coches.net,utilitario
+seat,arona,17490.0,2023,56059.0,gasolina,manual,110,coches.net,utilitario
+hyundai,ioniq,17990.0,2022,75998.0,hibrido,automatica,141,coches.net,berlina
+hyundai,i20,11990.0,2021,74000.0,gasolina,manual,84,coches.net,berlina
+ford,focus,18500.0,2022,55000.0,hibrido,manual,155,coches.net,berlina
+volkswagen,polo,15990.0,2020,52278.0,diesel,manual,95,coches.net,berlina
+ford,focus,17490.0,2022,37174.0,hibrido,manual,125,coches.net,berlina
+volkswagen,golf,16490.0,2020,67210.0,gasolina,manual,115,coches.net,berlina
+peugeot,208,11290.0,2022,81959.0,diesel,manual,100,coches.net,berlina
+peugeot,3008,17690.0,2021,97424.0,diesel,manual,130,coches.net,utilitario
+seat,arona,18800.0,2025,28867.0,gasolina,manual,115,coches.net,utilitario
+nissan,qashqai,14790.0,2020,88900.0,diesel,manual,115,coches.net,berlina
+nissan,qashqai,14200.0,2020,113828.0,diesel,manual,115,coches.net,berlina
+citroen,berlingo,11900.0,2021,98000.0,diesel,manual,102,coches.net,utilitario
+peugeot,rifter,18590.0,2022,31488.0,diesel,manual,100,coches.net,utilitario
+opel,astra,19375.0,2024,19851.0,gasolina,manual,130,coches.net,berlina
+opel,insignia,13900.0,2021,82931.0,diesel,manual,122,coches.net,berlina
+fiat,500x,11299.0,2020,77340.0,gasolina,manual,120,coches.net,utilitario
+opel,mokka,12999.0,2021,56309.0,gasolina,manual,130,coches.net,utilitario
+kia,picanto,15490.0,2025,9500.0,gasolina,manual,63,coches.net,berlina
+opel,corsa,12990.0,2023,60511.0,gasolina,manual,100,coches.net,berlina
+toyota,corolla,18400.0,2022,99882.0,hibrido,automatica,122,coches.net,berlina
+toyota,corolla,19990.0,2022,86390.0,hibrido,automatica,122,coches.net,berlina
+renault,mégane,17890.0,2023,48669.0,diesel,manual,115,coches.net,berlina
+toyota,aygo x cross,12990.0,2023,74000.0,gasolina,manual,72,coches.net,utilitario
+opel,corsa,11190.0,2023,65269.0,gasolina,manual,100,coches.net,berlina
+bmw,serie 1,19790.0,2023,81234.0,diesel,manual,116,coches.net,berlina
+citroen,c3,14790.0,2024,7399.0,diesel,manual,102,coches.net,berlina
+peugeot,308,12499.0,2020,40764.0,gasolina,automatica,130,coches.net,berlina
+seat,ibiza,17140.0,2025,21323.0,gasolina,manual,115,coches.net,berlina
+toyota,corolla,16490.0,2021,103809.0,hibrido,automatica,122,coches.net,berlina
+opel,corsa,12990.0,2022,39000.0,gasolina,manual,100,coches.net,berlina
+skoda,fabia,14200.0,2023,39461.0,gasolina,manual,80,coches.net,berlina
+hyundai,i20,15990.0,2022,43057.0,hibrido,manual,100,coches.net,berlina
+fiat,500x,17990.0,2022,73500.0,gasolina,automatica,150,coches.net,utilitario
+audi,a3,18990.0,2021,82000.0,gasolina,manual,110,coches.net,berlina
+toyota,yaris,19790.0,2022,53973.0,hibrido,automatica,116,coches.net,berlina
+toyota,corolla,19900.0,2022,73000.0,hibrido,automatica,122,coches.net,berlina
+citroen,c3,13500.0,2023,54073.0,gasolina,manual,83,coches.net,berlina
+citroen,c3,12200.0,2022,64715.0,gasolina,manual,83,coches.net,berlina
+citroen,c3,11500.0,2022,77000.0,gasolina,manual,83,coches.net,berlina
+hyundai,bayon,14490.0,2023,58000.0,gasolina,manual,84,coches.net,utilitario
+toyota,corolla,16990.0,2021,59990.0,hibrido,automatica,122,coches.net,berlina
+seat,arona,17500.0,2023,47000.0,gasolina,manual,110,coches.net,utilitario
+skoda,octavia,16999.0,2021,108000.0,hibrido,automatica,110,coches.net,berlina
+fiat,500,12500.0,2022,28200.0,hibrido,manual,70,coches.net,berlina
+peugeot,5008,18790.0,2022,85821.0,gasolina,automatica,130,coches.net,utilitario
+renault,clio,12490.0,2021,73000.0,diesel,manual,85,coches.net,berlina
+peugeot,rifter,17490.0,2021,83570.0,diesel,manual,100,coches.net,utilitario
+volkswagen,t-cross,19750.0,2022,57000.0,gasolina,automatica,110,coches.net,utilitario
+toyota,aygo,13750.0,2021,63654.0,gasolina,manual,72,coches.net,berlina
+volkswagen,polo,13990.0,2022,90000.0,gasolina,manual,95,coches.net,berlina
+mg,zs,14990.0,2025,8607.0,gasolina,manual,106,coches.net,utilitario
+peugeot,208,11900.0,2022,86100.0,diesel,manual,100,coches.net,berlina
+seat,león,19950.0,2021,53000.0,hibrido,automatica,204,coches.net,berlina
+peugeot,2008,15375.0,2023,67542.0,gasolina,manual,100,coches.net,utilitario
+jeep,compass,17399.0,2020,90294.0,diesel,automatica,140,coches.net,utilitario
+jaguar,e-pace,18799.0,2020,89625.0,diesel,automatica,150,coches.net,utilitario
+opel,corsa,15190.0,2025,12650.0,gasolina,manual,100,coches.net,berlina
+opel,corsa,10900.0,2023,68000.0,gasolina,manual,100,coches.net,berlina
+fiat,500,12490.0,2022,74663.0,hibrido,manual,70,coches.net,berlina
+dacia,sandero,14495.0,2023,37000.0,gasolina,manual,91,coches.net,berlina
+peugeot,rifter,18490.0,2020,110483.0,diesel,automatica,130,coches.net,utilitario
+kia,xceed,19490.0,2025,13543.0,gasolina,manual,100,coches.net,utilitario
+fiat,tipo,12290.0,2022,73350.0,gasolina,manual,100,coches.net,berlina
+seat,león,17850.0,2021,94000.0,hibrido,automatica,204,coches.net,berlina
+renault,clio,18600.0,2024,17928.0,gasolina,manual,90,coches.net,berlina
+peugeot,e-208,13690.0,2022,104029.0,electrico,automatica,136,coches.net,berlina
+renault,mégane,14690.0,2022,91202.0,diesel,manual,115,coches.net,berlina
+mini,countryman,18990.0,2021,105507.0,hibrido,automatica,220,coches.net,berlina
+renault,mégane,17490.0,2023,47899.0,gasolina,automatica,140,coches.net,berlina
+seat,león,19490.0,2023,96000.0,diesel,automatica,150,coches.net,berlina
+opel,corsa,16490.0,2025,16494.0,gasolina,manual,100,coches.net,berlina
+ford,mondeo,18690.0,2021,77041.0,hibrido,automatica,187,coches.net,berlina
+ford,kuga,17990.0,2023,104437.0,hibrido,automatica,225,coches.net,utilitario
+citroen,c4 cactus,10990.0,2020,39000.0,gasolina,manual,110,coches.net,berlina
+opel,corsa,14190.0,2024,17599.0,gasolina,manual,100,coches.net,berlina
+seat,arona,17990.0,2023,26247.0,gasolina,manual,110,coches.net,utilitario
+ford,kuga,19490.0,2023,66250.0,gasolina,manual,150,coches.net,utilitario
+peugeot,2008,12990.0,2021,90095.0,diesel,manual,110,coches.net,utilitario
+ds,ds 4,17900.0,2022,71000.0,diesel,automatica,130,coches.net,berlina
+opel,mokka,16900.0,2024,23000.0,gasolina,manual,136,coches.net,utilitario
+peugeot,2008,15940.0,2021,33768.0,gasolina,automatica,130,coches.net,utilitario
+seat,ateca,17890.0,2022,73405.0,gasolina,manual,110,coches.net,utilitario
+seat,ateca,19950.0,2022,72283.0,gasolina,manual,150,coches.net,utilitario
+bmw,serie 2,18900.0,2021,109367.0,diesel,automatica,116,coches.net,berlina
+peugeot,2008,12890.0,2020,40000.0,gasolina,manual,100,coches.net,utilitario
+ford,focus,15490.0,2022,79152.0,hibrido,manual,155,coches.net,berlina
+ford,focus,18490.0,2023,75834.0,hibrido,automatica,125,coches.net,berlina
+hyundai,i20,14900.0,2024,83882.0,gasolina,manual,100,coches.net,berlina
+renault,clio,11990.0,2022,93658.0,gas,manual,100,coches.net,berlina
+peugeot,2008,19990.0,2024,1.0,gasolina,manual,130,coches.net,utilitario
+hyundai,i20,15850.0,2022,52606.0,hibrido,manual,100,coches.net,berlina
+kia,picanto,17186.0,2025,2.0,gasolina,manual,68,coches.net,berlina
+ford,fiesta,15890.0,2022,36925.0,hibrido,manual,125,coches.net,berlina
+audi,a1,19590.0,2022,18707.0,gasolina,manual,95,coches.net,berlina
+seat,arona,15990.0,2022,23489.0,gasolina,manual,110,coches.net,utilitario
+peugeot,508,15990.0,2021,82872.0,diesel,automatica,130,coches.net,berlina
+hyundai,ioniq,16990.0,2021,91364.0,hibrido,automatica,141,coches.net,berlina
+ford,puma,16990.0,2021,46949.0,hibrido,manual,125,coches.net,utilitario
+kia,xceed,18950.0,2023,54659.0,gasolina,manual,120,coches.net,utilitario
+peugeot,308,14990.0,2022,107641.0,diesel,manual,130,coches.net,berlina
+renault,clio,16900.0,2025,19900.0,gasolina,manual,90,coches.net,berlina
+opel,corsa,10490.0,2022,90911.0,gasolina,manual,100,coches.net,berlina
+kia,ceed,16490.0,2023,51250.0,gasolina,manual,100,coches.net,berlina
+citroen,c3 aircross,12290.0,2022,81658.0,gasolina,manual,110,coches.net,utilitario
+seat,arona,18990.0,2022,30672.0,gasolina,automatica,110,coches.net,utilitario
+renault,clio,14990.0,2021,79334.0,hibrido,automatica,140,coches.net,berlina
+peugeot,208,12990.0,2022,76193.0,diesel,manual,100,coches.net,berlina
+kia,niro,16490.0,2020,91160.0,hibrido,automatica,141,coches.net,berlina
+toyota,yaris,17590.0,2020,49399.0,hibrido,automatica,100,coches.net,berlina
+dacia,sandero,15210.0,2024,48566.0,gas,manual,101,coches.net,berlina
+peugeot,208,12480.0,2021,42938.0,gasolina,manual,100,coches.net,berlina
+seat,ibiza,18520.0,2025,12461.0,gasolina,manual,115,coches.net,berlina
+dacia,sandero,17690.0,2025,3400.0,gas,manual,101,coches.net,berlina
+seat,ibiza,17485.0,2025,22500.0,gasolina,manual,115,coches.net,berlina
+fiat,500l,12499.0,2021,16954.0,gasolina,manual,95,coches.net,utilitario
+skoda,fabia,15090.0,2023,11816.0,gasolina,manual,95,coches.net,berlina
+peugeot,208,14900.0,2024,17893.0,gasolina,manual,100,coches.net,berlina
+ford,focus,19900.0,2024,56823.0,hibrido,automatica,155,coches.net,berlina
+skoda,fabia,16650.0,2025,35995.0,gasolina,manual,80,coches.net,berlina
+peugeot,2008,13990.0,2020,72682.0,gasolina,manual,130,coches.net,utilitario
+skoda,fabia,10690.0,2021,109000.0,gasolina,manual,95,coches.net,berlina
+skoda,fabia,11890.0,2021,76000.0,gasolina,manual,95,coches.net,berlina
+seat,león,15490.0,2021,77207.0,diesel,manual,115,coches.net,berlina
+peugeot,208,12290.0,2021,95778.0,diesel,manual,100,coches.net,berlina
+citroen,c4,13850.0,2022,85000.0,diesel,automatica,130,coches.net,berlina
+fiat,500x,17490.0,2022,69718.0,gasolina,automatica,150,coches.net,utilitario
+fiat,500x,16200.0,2023,56654.0,gasolina,manual,120,coches.net,utilitario
+mg,zs,17090.0,2023,44768.0,gasolina,manual,106,coches.net,utilitario
+seat,ibiza,13350.0,2023,87000.0,gasolina,manual,80,coches.net,berlina
+skoda,scala,16450.0,2024,77073.0,gasolina,manual,110,coches.net,berlina
+dacia,sandero,16490.0,2025,27919.0,gas,manual,101,coches.net,berlina
+opel,corsa,12900.0,2022,61850.0,gasolina,manual,100,coches.net,berlina
+opel,corsa,10950.0,2022,81000.0,gasolina,manual,100,coches.net,berlina
+kia,sportage,17995.0,2022,88160.0,hibrido,manual,136,coches.net,utilitario
+renault,captur,16900.0,2022,74000.0,gas,manual,100,coches.net,utilitario
+volkswagen,polo,13990.0,2020,79052.0,gasolina,manual,95,coches.net,berlina
+seat,ibiza,18480.0,2025,19800.0,gasolina,manual,115,coches.net,berlina
+kia,stonic,16000.0,2024,45479.0,gasolina,manual,84,coches.net,utilitario
+dacia,sandero,12990.0,2022,36000.0,gasolina,manual,91,coches.net,berlina
+peugeot,208,10490.0,2021,110991.0,diesel,manual,100,coches.net,berlina
+opel,corsa-e,19890.0,2020,16109.0,electrico,automatica,136,coches.net,berlina
+seat,arona,17990.0,2023,42444.0,gasolina,manual,110,coches.net,utilitario
+citroen,c4,16900.0,2024,9000.0,gasolina,manual,131,coches.net,berlina
+citroen,c5 aircross,17500.0,2020,98100.0,diesel,manual,131,coches.net,utilitario
+mg,mg3 hybrid+,17290.0,2025,13682.0,hibrido,automatica,195,coches.net,berlina
+ford,puma,17490.0,2021,50931.0,diesel,manual,120,coches.net,utilitario
+opel,mokka,16490.0,2022,41286.0,diesel,manual,110,coches.net,utilitario
+renault,twingo,10900.0,2022,110000.0,electrico,automatica,82,coches.net,berlina
+ford,puma,18500.0,2022,37560.0,hibrido,manual,125,coches.net,utilitario
+renault,clio,12995.0,2022,82000.0,diesel,manual,100,coches.net,berlina
+peugeot,3008,16490.0,2021,21442.0,gasolina,manual,130,coches.net,utilitario
+peugeot,3008,15390.0,2021,87530.0,gasolina,manual,130,coches.net,utilitario
+hyundai,i20,15900.0,2024,8400.0,gasolina,manual,84,coches.net,berlina
+kia,stonic,15700.0,2021,50844.0,hibrido,manual,120,coches.net,utilitario
+dacia,duster,16750.0,2022,33700.0,gas,manual,100,coches.net,utilitario
+seat,ibiza,17890.0,2024,19000.0,gasolina,manual,115,coches.net,berlina
+hyundai,ioniq,16250.0,2022,115463.0,hibrido,automatica,141,coches.net,berlina
+renault,mégane,15500.0,2022,77145.0,diesel,manual,115,coches.net,berlina
+nissan,qashqai,18900.0,2021,38595.0,gasolina,manual,140,coches.net,berlina
+ford,focus,15990.0,2022,48605.0,hibrido,manual,125,coches.net,berlina
+ford,focus,19900.0,2024,64496.0,hibrido,automatica,155,coches.net,berlina
+nissan,qashqai,18900.0,2021,51091.0,gasolina,manual,140,coches.net,berlina
+toyota,corolla,19900.0,2022,105392.0,hibrido,automatica,122,coches.net,berlina
+skoda,kamiq,16999.0,2024,24505.0,gasolina,manual,110,coches.net,utilitario
+toyota,yaris,19890.0,2025,37292.0,hibrido,automatica,116,coches.net,berlina
+renault,clio,13990.0,2021,73924.0,gasolina,manual,90,coches.net,berlina
+renault,mégane,13990.0,2022,79781.0,diesel,manual,115,coches.net,berlina
+renault,mégane,14290.0,2022,99733.0,diesel,manual,115,coches.net,berlina
+peugeot,208,10990.0,2021,41348.0,gasolina,manual,100,coches.net,berlina
+ford,ecosport,14400.0,2023,65852.0,gasolina,manual,125,coches.net,utilitario
+citroen,c3,10490.0,2022,59719.0,gasolina,manual,83,coches.net,berlina
+seat,arona,18990.0,2025,28241.0,gasolina,automatica,115,coches.net,utilitario
+peugeot,3008,19050.0,2022,65424.0,diesel,automatica,130,coches.net,utilitario
+audi,a1,17990.0,2020,64000.0,gasolina,manual,95,coches.net,berlina
+skoda,kamiq,18990.0,2025,20470.0,gasolina,manual,115,coches.net,utilitario
+peugeot,2008,14790.0,2022,63792.0,gasolina,manual,100,coches.net,utilitario
+kia,ceed,17950.0,2024,41000.0,gasolina,manual,120,coches.net,berlina
+fiat,panda,11100.0,2023,66252.0,hibrido,manual,70,coches.net,berlina
+fiat,panda,11000.0,2023,51429.0,hibrido,manual,70,coches.net,berlina
+renault,captur,18500.0,2021,19993.0,hibrido,automatica,145,coches.net,utilitario
+nissan,juke,19289.0,2024,20900.0,gasolina,manual,114,coches.net,utilitario
+renault,clio,13490.0,2020,46786.0,diesel,manual,85,coches.net,berlina
+kia,sportage,16490.0,2020,82118.0,gasolina,manual,132,coches.net,utilitario
+fiat,panda,10990.0,2023,40828.0,hibrido,manual,70,coches.net,berlina
+seat,ibiza,18890.0,2025,13000.0,gasolina,manual,115,coches.net,berlina
+volkswagen,t-cross,18900.0,2022,44110.0,gasolina,manual,110,coches.net,utilitario
+kia,xceed,18490.0,2022,64000.0,gasolina,manual,120,coches.net,utilitario
+ford,focus,12990.0,2020,33864.0,gasolina,manual,100,coches.net,berlina
+seat,ibiza,18490.0,2024,8497.0,gasolina,manual,115,coches.net,berlina
+peugeot,3008,15290.0,2021,107157.0,diesel,manual,130,coches.net,utilitario
+kia,picanto,15990.0,2025,14.0,gasolina,manual,63,coches.net,berlina
+seat,león,16490.0,2022,66935.0,gasolina,manual,110,coches.net,berlina
+hyundai,i10,13790.0,2024,15794.0,gasolina,manual,67,coches.net,berlina
+citroen,c3 aircross,19500.0,2025,14951.0,gasolina,manual,100,coches.net,utilitario
+fiat,500c,10990.0,2021,73700.0,hibrido,manual,70,coches.net,berlina
+opel,grandland,17900.0,2023,32779.0,gasolina,manual,130,coches.net,utilitario
+peugeot,rifter,15990.0,2020,99000.0,diesel,manual,130,coches.net,utilitario
+ford,fiesta,12490.0,2020,80699.0,diesel,manual,85,coches.net,berlina
+peugeot,508,13690.0,2020,98608.0,diesel,manual,130,coches.net,berlina
+bmw,serie 1,17900.0,2020,106588.0,diesel,automatica,116,coches.net,berlina
+kia,xceed,18990.0,2023,42000.0,hibrido,manual,136,coches.net,utilitario
+renault,clio,19510.0,2025,20426.0,diesel,manual,100,coches.net,berlina
+renault,clio,19360.0,2025,28853.0,diesel,manual,100,coches.net,berlina
+mg,zs,15900.0,2025,18178.0,gasolina,manual,106,coches.net,utilitario
+hyundai,kona,13790.0,2020,98764.0,gasolina,manual,120,coches.net,utilitario
+kia,xceed,15490.0,2021,72151.0,gasolina,manual,120,coches.net,utilitario
+nissan,qashqai,16990.0,2021,78583.0,gasolina,manual,140,coches.net,berlina
+honda,jazz,17700.0,2021,68720.0,hibrido,automatica,109,coches.net,berlina
+honda,jazz,17900.0,2022,51595.0,hibrido,manual,109,coches.net,berlina
+mg,zs,14990.0,2025,8787.0,gasolina,manual,106,coches.net,utilitario
+mg,zs,16490.0,2024,16133.0,gasolina,manual,111,coches.net,utilitario
+peugeot,2008,14890.0,2021,58577.0,diesel,manual,110,coches.net,utilitario
+fiat,panda,12750.0,2024,59484.0,hibrido,manual,70,coches.net,berlina
+bmw,serie 1,19690.0,2023,96169.0,gasolina,automatica,136,coches.net,berlina
+dacia,sandero,12500.0,2020,29000.0,gasolina,manual,91,coches.net,berlina
+hyundai,i20,19990.0,2025,6788.0,gasolina,manual,100,coches.net,berlina
+hyundai,kona,19750.0,2021,50000.0,hibrido,automatica,141,coches.net,utilitario
+renault,arkana,19900.0,2021,62450.0,hibrido,automatica,145,coches.net,utilitario
+kia,xceed,16490.0,2023,64446.0,gasolina,manual,120,coches.net,utilitario
+volkswagen,t-cross,16900.0,2023,63000.0,gasolina,automatica,110,coches.net,utilitario
+opel,corsa,12500.0,2022,110985.0,diesel,manual,102,coches.net,berlina
+opel,corsa,13490.0,2022,49800.0,diesel,manual,102,coches.net,berlina
+seat,arona,18490.0,2024,18500.0,gasolina,manual,115,coches.net,utilitario
+jeep,renegade,16995.0,2023,80000.0,diesel,manual,130,coches.net,utilitario
+kia,picanto,13900.0,2021,8999.0,gasolina,automatica,84,coches.net,berlina
+opel,corsa,11099.0,2022,42638.0,gasolina,manual,75,coches.net,berlina
+peugeot,308,12500.0,2021,103309.0,diesel,manual,100,coches.net,berlina
+peugeot,2008,13400.0,2021,33349.0,gasolina,manual,100,coches.net,utilitario
+hyundai,i20,15200.0,2021,60670.0,hibrido,manual,100,coches.net,berlina
+nissan,juke,18990.0,2024,35725.0,gasolina,automatica,114,coches.net,utilitario
+volkswagen,polo,14500.0,2021,92912.0,gasolina,manual,95,coches.net,berlina
+volkswagen,polo,13700.0,2022,115892.0,gasolina,manual,95,coches.net,berlina
+opel,corsa,11400.0,2021,14089.0,gasolina,manual,75,coches.net,berlina
+opel,corsa,11900.0,2023,83000.0,gasolina,manual,100,coches.net,berlina
+kia,ceed,11990.0,2020,103221.0,gasolina,manual,120,coches.net,berlina
+citroen,berlingo,17990.0,2023,47878.0,diesel,manual,102,coches.net,utilitario
+ford,kuga,19900.0,2022,57511.0,gasolina,manual,150,coches.net,utilitario
+mg,mg3,17990.0,2025,6666.0,gasolina,manual,116,coches.net,berlina
+seat,ibiza,19990.0,2024,21564.0,gasolina,manual,115,coches.net,berlina
+seat,ibiza,17490.0,2024,19000.0,gasolina,manual,115,coches.net,berlina
+peugeot,e-208,18490.0,2022,28199.0,electrico,automatica,136,coches.net,berlina
+citroen,ë-c4,16990.0,2021,54000.0,electrico,automatica,136,coches.net,berlina
+toyota,corolla,19499.0,2022,75000.0,hibrido,automatica,122,coches.net,berlina
+audi,a3,18990.0,2020,79000.0,hibrido,automatica,204,coches.net,berlina
+kia,stonic,16480.0,2023,17571.0,hibrido,manual,100,coches.net,utilitario
+mitsubishi,space star,13499.0,2023,7578.0,gasolina,manual,71,coches.net,berlina
+kia,ceed,17000.0,2023,75025.0,hibrido,manual,136,coches.net,berlina
+kia,ceed,15490.0,2020,73649.0,gasolina,manual,100,coches.net,berlina
+seat,ibiza,19900.0,2025,500.0,gasolina,manual,115,coches.net,berlina
+dacia,jogger,19900.0,2025,39288.0,gasolina,manual,110,coches.net,berlina
+dr automobiles,dr 5.0,13790.0,2022,97305.0,gasolina,manual,116,coches.net,utilitario
+seat,ibiza,15999.0,2025,25000.0,gasolina,manual,115,coches.net,berlina
+seat,ibiza,18690.0,2025,15470.0,gasolina,manual,115,coches.net,berlina
+kia,stonic,14290.0,2023,32192.0,gasolina,manual,84,coches.net,utilitario
+renault,captur,14790.0,2023,85000.0,gasolina,manual,90,coches.net,utilitario
+peugeot,rifter,17390.0,2022,58812.0,diesel,manual,100,coches.net,utilitario
+peugeot,308,14990.0,2021,57000.0,gasolina,manual,110,coches.net,berlina
+jeep,compass,19990.0,2021,31000.0,gasolina,automatica,150,coches.net,utilitario
+hyundai,kona,15990.0,2022,26000.0,gasolina,manual,120,coches.net,utilitario
+renault,mégane,17990.0,2020,75206.0,diesel,manual,115,coches.net,berlina
+peugeot,3008,19890.0,2021,67024.0,diesel,manual,130,coches.net,utilitario
+citroen,c3 aircross,11999.0,2021,25972.0,gasolina,manual,110,coches.net,utilitario
+peugeot,308,16000.0,2022,85112.0,diesel,automatica,130,coches.net,berlina
+peugeot,3008 hybrid,19850.0,2022,30386.0,hibrido,automatica,225,coches.net,utilitario
+seat,león,19500.0,2024,10132.0,gasolina,manual,116,coches.net,berlina
+mg,mg3,14400.0,2025,18576.0,gasolina,manual,116,coches.net,berlina
+mg,mg3,14400.0,2025,16555.0,gasolina,manual,116,coches.net,berlina
+mg,mg3,14400.0,2025,15832.0,gasolina,manual,116,coches.net,berlina
+suzuki,vitara,17990.0,2021,65222.0,hibrido,manual,129,coches.net,utilitario
+peugeot,3008,17990.0,2021,62967.0,diesel,manual,130,coches.net,utilitario
+volkswagen,polo,15590.0,2022,68163.0,gasolina,manual,95,coches.net,berlina
+volkswagen,taigo,18709.0,2023,64305.0,gasolina,manual,110,coches.net,utilitario
+volkswagen,taigo,18809.0,2023,59116.0,gasolina,manual,95,coches.net,utilitario
+volkswagen,taigo,18910.0,2023,64252.0,gasolina,manual,95,coches.net,utilitario
+mg,mg3,14790.0,2025,5982.0,gasolina,manual,116,coches.net,berlina
+mg,mg3,14390.0,2025,8399.0,gasolina,manual,116,coches.net,berlina
+fiat,500,11900.0,2022,36800.0,hibrido,manual,70,coches.net,berlina
+fiat,500,11690.0,2023,43765.0,hibrido,manual,70,coches.net,berlina
+kia,picanto,15485.0,2024,11049.0,gasolina,manual,63,coches.net,berlina
+opel,astra,10950.0,2020,71900.0,gasolina,manual,110,coches.net,berlina
+fiat,panda,12950.0,2024,39485.0,hibrido,manual,70,coches.net,berlina
+kia,stonic,13475.0,2021,56000.0,gasolina,manual,84,coches.net,utilitario
+seat,león,19990.0,2024,19696.0,gasolina,manual,116,coches.net,berlina
+opel,corsa,14100.0,2024,37195.0,gasolina,manual,100,coches.net,berlina
+renault,mégane,15990.0,2022,86607.0,diesel,manual,115,coches.net,berlina
+opel,astra,11500.0,2020,78518.0,gasolina,manual,145,coches.net,berlina
+nissan,qashqai,18990.0,2021,88769.0,hibrido,manual,140,coches.net,utilitario
+seat,león,14700.0,2020,108740.0,diesel,manual,115,coches.net,berlina
+ford,ecosport,15299.0,2022,35145.0,gasolina,manual,125,coches.net,utilitario
+fiat,500,11990.0,2021,29988.0,hibrido,manual,70,coches.net,berlina
+volkswagen,polo,13990.0,2021,103000.0,gasolina,automatica,95,coches.net,berlina
+fiat,500,13900.0,2023,9479.0,hibrido,manual,70,coches.net,berlina
+kia,picanto,10299.0,2020,76201.0,gasolina,manual,67,coches.net,berlina
+toyota,proace city,18990.0,2020,119675.0,diesel,manual,131,coches.net,utilitario
+seat,ibiza,13900.0,2023,119927.0,gasolina,manual,110,coches.net,berlina
+hyundai,bayon,13990.0,2022,83347.0,gasolina,manual,84,coches.net,utilitario
+kia,stonic,16299.0,2021,27023.0,hibrido,manual,100,coches.net,utilitario
+kia,stonic,16699.0,2022,37672.0,hibrido,manual,100,coches.net,utilitario
+ford,puma,16490.0,2020,61732.0,hibrido,manual,125,coches.net,utilitario
+opel,corsa,11900.0,2020,25043.0,gasolina,manual,100,coches.net,berlina
+citroen,c3 aircross,11990.0,2021,43707.0,gasolina,manual,110,coches.net,utilitario
+toyota,yaris,19690.0,2022,50423.0,hibrido,automatica,116,coches.net,berlina
+toyota,yaris,16990.0,2022,98854.0,hibrido,automatica,116,coches.net,berlina
+toyota,corolla,18490.0,2021,105965.0,hibrido,automatica,122,coches.net,berlina
+peugeot,2008,19499.0,2025,2459.0,gasolina,manual,100,coches.net,utilitario
+opel,grandland x,12899.0,2020,107960.0,diesel,manual,130,coches.net,utilitario
+citroen,c5 aircross,14850.0,2020,102360.0,diesel,manual,131,coches.net,utilitario
+volkswagen,polo,18990.0,2020,62798.0,gasolina,manual,110,coches.net,berlina
+peugeot,3008,13190.0,2020,106855.0,gasolina,manual,130,coches.net,utilitario
+mg,zs,12900.0,2022,57000.0,gasolina,automatica,111,coches.net,utilitario
+peugeot,208,16850.0,2025,26000.0,hibrido,automatica,100,coches.net,berlina
+peugeot,508,16990.0,2020,63016.0,diesel,manual,130,coches.net,berlina
+skoda,fabia,13500.0,2023,29690.0,gasolina,manual,80,coches.net,berlina
+kia,stonic,14290.0,2022,86703.0,hibrido,manual,100,coches.net,utilitario
+fiat,500x,12899.0,2021,56513.0,gasolina,manual,120,coches.net,utilitario
+citroen,c3 aircross,13990.0,2024,49268.0,diesel,manual,110,coches.net,utilitario
+peugeot,5008,16490.0,2020,110946.0,diesel,automatica,130,coches.net,utilitario
+mg,zs,17391.0,2025,8000.0,gasolina,manual,116,coches.net,utilitario
+peugeot,208,12499.0,2024,32807.0,gasolina,manual,75,coches.net,berlina
+kia,ceed,18732.0,2025,13585.0,gasolina,manual,100,coches.net,berlina
+mg,zs,16990.0,2023,19159.0,gasolina,automatica,111,coches.net,utilitario
+peugeot,208,10290.0,2021,70886.0,gasolina,manual,75,coches.net,berlina
+seat,león,18990.0,2024,89990.0,diesel,manual,116,coches.net,berlina
+toyota,yaris,18999.0,2022,37254.0,hibrido,automatica,116,coches.net,berlina
+citroen,c4,16490.0,2023,28580.0,gasolina,automatica,131,coches.net,berlina
+ds,ds 3 crossback,15990.0,2020,37031.0,gasolina,automatica,130,coches.net,utilitario
+skoda,kamiq,18610.0,2022,60594.0,gasolina,automatica,110,coches.net,utilitario
+kia,xceed,17500.0,2022,62321.0,gasolina,manual,120,coches.net,utilitario
+toyota,proace city,15990.0,2021,77000.0,diesel,manual,102,coches.net,utilitario
+opel,mokka,13750.0,2022,108000.0,diesel,manual,110,coches.net,utilitario
+nissan,qashqai,16500.0,2020,90000.0,diesel,manual,115,coches.net,berlina
+peugeot,308,14490.0,2022,103736.0,diesel,manual,130,coches.net,berlina
+kia,picanto,13409.0,2022,63005.0,gasolina,automatica,67,coches.net,berlina
+mg,zs,14380.0,2022,72787.0,gasolina,manual,106,coches.net,utilitario
+hyundai,i30,13790.0,2021,90000.0,gasolina,manual,110,coches.net,berlina
+opel,corsa,11990.0,2021,117352.0,diesel,manual,102,coches.net,berlina
+kia,rio,12990.0,2021,43985.0,gasolina,manual,84,coches.net,berlina
+kia,ceed,19200.0,2025,12517.0,gasolina,manual,100,coches.net,berlina
+nissan,micra,11199.0,2021,68078.0,gasolina,manual,92,coches.net,berlina
+toyota,yaris,19490.0,2022,52650.0,hibrido,automatica,116,coches.net,berlina
+mazda,cx-30,16999.0,2021,99771.0,hibrido,manual,122,coches.net,utilitario
+peugeot,308,16899.0,2024,30201.0,gasolina,automatica,130,coches.net,berlina
+citroen,c4,13500.0,2022,110000.0,diesel,manual,110,coches.net,berlina
+dacia,sandero,14490.0,2023,48000.0,gasolina,manual,91,coches.net,berlina
+fiat,500,10990.0,2022,63940.0,hibrido,manual,70,coches.net,berlina
+volkswagen,golf,17200.0,2020,80412.0,gasolina,manual,130,coches.net,berlina
+audi,a1,17300.0,2021,38026.0,gasolina,manual,95,coches.net,berlina
+mg,zs,15990.0,2024,20468.0,gasolina,manual,106,coches.net,utilitario
+skoda,karoq,18690.0,2021,105970.0,diesel,automatica,150,coches.net,utilitario
+seat,ateca,18400.0,2021,106148.0,diesel,manual,116,coches.net,utilitario
+volkswagen,golf,17490.0,2020,84996.0,gasolina,manual,130,coches.net,berlina
+peugeot,2008,17990.0,2021,109000.0,diesel,automatica,130,coches.net,utilitario
+renault,captur,16900.0,2021,36419.0,gasolina,manual,90,coches.net,utilitario
+peugeot,308,16390.0,2024,50241.0,gasolina,manual,130,coches.net,berlina
+seat,león,16990.0,2021,78033.0,diesel,manual,115,coches.net,berlina
+kia,xceed,15690.0,2021,105492.0,hibrido,automatica,141,coches.net,utilitario
+skoda,scala,18990.0,2023,50055.0,gasolina,manual,110,coches.net,berlina
+volkswagen,golf,18990.0,2023,41600.0,gasolina,manual,110,coches.net,berlina
+nissan,micra,12990.0,2023,40070.0,gasolina,manual,92,coches.net,berlina
+toyota,yaris,18000.0,2021,108272.0,hibrido,automatica,116,coches.net,berlina
+nissan,qashqai,19990.0,2021,70500.0,hibrido,automatica,158,coches.net,utilitario
+ford,focus,18890.0,2024,66986.0,hibrido,automatica,155,coches.net,berlina
+ford,focus,18890.0,2024,64416.0,hibrido,automatica,155,coches.net,berlina
+seat,ibiza,16900.0,2024,34253.0,gasolina,manual,115,coches.net,berlina
+skoda,kamiq,16800.0,2022,11881.0,gasolina,manual,95,coches.net,utilitario
+kia,stonic,15500.0,2020,28921.0,gasolina,manual,100,coches.net,utilitario
+hyundai,kona,15490.0,2022,86162.0,hibrido,manual,120,coches.net,utilitario
+seat,ibiza,17999.0,2022,44885.0,gasolina,automatica,150,coches.net,berlina
+mg,zs,15900.0,2025,11260.0,gasolina,manual,106,coches.net,utilitario
+ford,puma,16990.0,2020,19708.0,hibrido,manual,125,coches.net,utilitario
+opel,astra,13495.0,2021,69000.0,diesel,manual,105,coches.net,berlina
+hyundai,i30,18690.0,2024,53216.0,hibrido,manual,120,coches.net,berlina
+hyundai,kona,18490.0,2023,87319.0,hibrido,manual,120,coches.net,utilitario
+volkswagen,polo,13490.0,2021,91630.0,gasolina,manual,95,coches.net,berlina
+opel,corsa,13400.0,2022,45836.0,gasolina,manual,100,coches.net,berlina
+opel,astra,13490.0,2020,49435.0,gasolina,manual,110,coches.net,berlina
+citroen,c3 aircross,14490.0,2024,22174.0,gasolina,manual,110,coches.net,utilitario
+citroen,berlingo,14450.0,2022,103000.0,diesel,manual,102,coches.net,utilitario
+hyundai,ioniq,15990.0,2020,98423.0,hibrido,automatica,141,coches.net,berlina
+mg,ehs,18900.0,2022,74000.0,hibrido,automatica,258,coches.net,utilitario
+hyundai,bayon,17300.0,2021,44880.0,hibrido,automatica,100,coches.net,utilitario
+opel,mokka-e,17490.0,2021,46493.0,electrico,automatica,136,coches.net,utilitario
+volkswagen,golf,17985.0,2021,82570.0,gasolina,manual,110,coches.net,berlina
+volkswagen,t-roc,19200.0,2022,81801.0,gasolina,manual,110,coches.net,utilitario
+seat,león,15980.0,2022,87794.0,diesel,manual,115,coches.net,berlina
+volkswagen,t-cross,18990.0,2020,69000.0,gasolina,automatica,115,coches.net,utilitario
+mercedes-benz,citan,19890.0,2021,80000.0,diesel,manual,95,coches.net,utilitario
+nissan,juke,19900.0,2025,28376.0,gasolina,manual,114,coches.net,utilitario
+volkswagen,t-cross,18800.0,2022,27843.0,gasolina,manual,110,coches.net,utilitario
+fiat,500,11490.0,2022,88056.0,hibrido,manual,70,coches.net,berlina
+toyota,aygo,11500.0,2021,72259.0,gasolina,automatica,72,coches.net,berlina
+jeep,compass,18900.0,2022,105000.0,gasolina,manual,130,coches.net,utilitario
+jeep,compass,19990.0,2022,44473.0,gasolina,manual,130,coches.net,utilitario
+nissan,juke,16490.0,2021,59754.0,gasolina,automatica,114,coches.net,utilitario
+hyundai,i20,14900.0,2024,89000.0,gasolina,manual,100,coches.net,berlina
+renault,zoe,12100.0,2020,43554.0,electrico,automatica,108,coches.net,berlina
+kia,stonic,13599.0,2023,79900.0,gasolina,manual,84,coches.net,utilitario
+kia,xceed,17990.0,2024,47819.0,gasolina,manual,100,coches.net,utilitario
+toyota,yaris,14299.0,2021,116985.0,hibrido,automatica,116,coches.net,berlina
+kia,stonic,13599.0,2022,68154.0,hibrido,manual,100,coches.net,utilitario
+seat,mii,12590.0,2020,38793.0,electrico,automatica,83,coches.net,berlina
+ds,ds 7 crossback,14590.0,2020,116187.0,diesel,automatica,130,coches.net,utilitario
+citroen,c3 aircross,17575.0,2024,33139.0,gasolina,manual,110,coches.net,utilitario
+renault,clio,18074.0,2025,16324.0,gas,manual,100,coches.net,berlina
+fiat,500x,13995.0,2021,59000.0,gasolina,manual,120,coches.net,utilitario
+skoda,kamiq,18990.0,2021,24000.0,gasolina,automatica,110,coches.net,utilitario
+dacia,sandero,11399.0,2020,86455.0,gasolina,manual,100,coches.net,berlina
+dacia,sandero,13290.0,2022,84288.0,gasolina,manual,91,coches.net,berlina
+citroen,c3 aircross,11890.0,2020,56397.0,gasolina,manual,110,coches.net,utilitario
+fiat,panda,10990.0,2022,29000.0,hibrido,manual,70,coches.net,berlina
+volkswagen,polo,14300.0,2021,64541.0,gasolina,manual,95,coches.net,berlina
+peugeot,5008,16499.0,2021,118000.0,diesel,manual,130,coches.net,utilitario
+peugeot,208,18490.0,2025,7790.0,hibrido,automatica,100,coches.net,berlina
+fiat,panda,10990.0,2023,67700.0,hibrido,manual,70,coches.net,berlina
+ford,puma,19999.0,2023,49000.0,hibrido,automatica,125,coches.net,utilitario
+dacia,sandero,13900.0,2023,30500.0,gasolina,manual,91,coches.net,berlina
+ford,focus,18699.0,2023,38900.0,hibrido,manual,155,coches.net,berlina
+peugeot,208,11990.0,2023,80373.0,gasolina,manual,100,coches.net,berlina
+kia,rio,13990.0,2022,55000.0,gasolina,manual,84,coches.net,berlina
+honda,jazz,19590.0,2023,56000.0,hibrido,automatica,109,coches.net,berlina
+peugeot,208,13500.0,2023,45000.0,gasolina,manual,100,coches.net,berlina
+fiat,500,12980.0,2022,66538.0,hibrido,manual,70,coches.net,berlina
+ford,focus,16490.0,2023,54832.0,hibrido,manual,125,coches.net,berlina
+seat,arona,18490.0,2024,44651.0,gasolina,manual,115,coches.net,utilitario
+peugeot,208,11690.0,2023,48974.0,gasolina,manual,75,coches.net,berlina
+seat,arona,15999.0,2023,50000.0,gasolina,manual,110,coches.net,utilitario
+peugeot,208,10499.0,2020,45962.0,gasolina,manual,75,coches.net,berlina
+peugeot,e-2008,16990.0,2021,48449.0,electrico,automatica,136,coches.net,utilitario
+citroen,c3,11500.0,2022,44000.0,gasolina,manual,83,coches.net,berlina
+citroen,c4,19990.0,2025,10375.0,hibrido,automatica,136,coches.net,berlina
+renault,mégane,15399.0,2021,68800.0,gasolina,manual,140,coches.net,berlina
+citroen,c4 x,17000.0,2024,60685.0,diesel,automatica,131,coches.net,berlina
+skoda,kamiq,17500.0,2021,51247.0,gasolina,manual,110,coches.net,utilitario
+smart,forfour,13000.0,2021,17891.0,electrico,automatica,82,coches.net,berlina
+skoda,karoq,19890.0,2021,79507.0,diesel,automatica,150,coches.net,utilitario
+seat,ibiza,16400.0,2024,40000.0,gasolina,manual,115,coches.net,berlina
+toyota,yaris,19890.0,2025,27918.0,hibrido,automatica,116,coches.net,berlina
+citroen,c3 aircross,19500.0,2025,21532.0,gasolina,manual,100,coches.net,utilitario
+kia,picanto,14537.0,2024,20784.0,gasolina,manual,67,coches.net,berlina
+bmw,serie 1,17290.0,2020,105182.0,diesel,automatica,116,coches.net,berlina
+suzuki,swift,15900.0,2022,59000.0,hibrido,manual,83,coches.net,berlina
+peugeot,rifter,16799.0,2021,101092.0,diesel,manual,100,coches.net,utilitario
+kia,xceed,16890.0,2021,64596.0,hibrido,manual,136,coches.net,utilitario
+opel,grandland,16990.0,2023,47568.0,gasolina,automatica,130,coches.net,utilitario
+seat,león,18690.0,2024,48037.0,gasolina,manual,130,coches.net,berlina
+hyundai,i20,16900.0,2024,9091.0,gasolina,manual,79,coches.net,berlina
+hyundai,i20,16900.0,2024,6000.0,gasolina,manual,84,coches.net,berlina
+kia,niro,17990.0,2021,110000.0,hibrido,automatica,141,coches.net,berlina
+ford,focus,15890.0,2022,109245.0,diesel,automatica,120,coches.net,berlina
+fiat,500,13495.0,2024,28343.0,hibrido,manual,70,coches.net,berlina
+mitsubishi,space star,14250.0,2023,23000.0,gasolina,manual,71,coches.net,berlina
+kia,niro,19895.0,2022,113947.0,hibrido,automatica,141,coches.net,berlina
+hyundai,kona,19450.0,2021,60000.0,electrico,automatica,204,coches.net,utilitario
+kia,rio,13950.0,2020,49624.0,gasolina,manual,100,coches.net,berlina
+kia,rio,13400.0,2021,34718.0,gasolina,manual,84,coches.net,berlina
+opel,corsa,13200.0,2023,31975.0,gasolina,manual,100,coches.net,berlina
+opel,corsa,12500.0,2023,27601.0,gasolina,manual,75,coches.net,berlina
+renault,scénic,17390.0,2020,78987.0,diesel,manual,120,coches.net,utilitario
+peugeot,308,14490.0,2022,104887.0,gasolina,manual,110,coches.net,berlina
+peugeot,3008 hybrid,14900.0,2020,120000.0,hibrido,automatica,225,coches.net,utilitario
+peugeot,2008,14990.0,2023,55402.0,gasolina,manual,100,coches.net,utilitario
+hyundai,kona,15990.0,2022,113535.0,hibrido,manual,120,coches.net,utilitario
+mini,mini,16900.0,2020,82500.0,electrico,automatica,184,coches.net,berlina
+volkswagen,polo,14599.0,2021,72880.0,gasolina,automatica,95,coches.net,berlina
+renault,kangoo combi,17999.0,2022,90000.0,diesel,manual,95,coches.net,utilitario
+fiat,500,12990.0,2022,44608.0,hibrido,manual,70,coches.net,berlina
+fiat,500,11590.0,2023,40614.0,hibrido,manual,70,coches.net,berlina
+fiat,500,10599.0,2021,39642.0,hibrido,manual,70,coches.net,berlina
+ford,focus,18990.0,2024,58435.0,hibrido,automatica,155,coches.net,berlina
+ford,ecosport,14490.0,2022,37280.0,gasolina,manual,125,coches.net,utilitario
+peugeot,308,11990.0,2021,67000.0,diesel,automatica,130,coches.net,berlina
+audi,a3,18990.0,2021,87000.0,gasolina,manual,110,coches.net,berlina
+seat,arona,18490.0,2022,75595.0,gasolina,automatica,110,coches.net,utilitario
+seat,arona,18990.0,2021,44463.0,gasolina,manual,110,coches.net,utilitario
+toyota,yaris,17900.0,2020,34000.0,hibrido,automatica,100,coches.net,berlina
+hyundai,bayon,15990.0,2024,22000.0,gasolina,manual,84,coches.net,utilitario
+peugeot,208,13900.0,2023,69000.0,diesel,manual,100,coches.net,berlina
+dacia,sandero,12650.0,2024,40000.0,gas,manual,101,coches.net,berlina
+kia,sportage,19000.0,2020,71518.0,hibrido,manual,136,coches.net,utilitario
+ford,ecosport,14990.0,2022,55055.0,gasolina,manual,125,coches.net,utilitario
+mg,zs,14990.0,2022,81908.0,gasolina,manual,106,coches.net,utilitario
+peugeot,208,17500.0,2024,15135.0,hibrido,automatica,100,coches.net,berlina
+hyundai,i20,18161.0,2025,18092.0,gasolina,manual,100,coches.net,berlina
+kia,stonic,15490.0,2022,37800.0,gasolina,manual,84,coches.net,utilitario
+opel,mokka,14990.0,2022,48473.0,gasolina,manual,130,coches.net,utilitario
+fiat,500,10290.0,2022,40738.0,hibrido,manual,70,coches.net,berlina
+renault,captur,17900.0,2021,52292.0,gasolina,automatica,140,coches.net,utilitario
+peugeot,e-208,16900.0,2022,30130.0,electrico,automatica,136,coches.net,berlina
+seat,ibiza,19300.0,2025,12000.0,gasolina,manual,115,coches.net,berlina
+hyundai,i20,15990.0,2022,44000.0,hibrido,manual,100,coches.net,berlina
+toyota,corolla,19590.0,2020,35428.0,hibrido,automatica,122,coches.net,berlina
+volkswagen,passat,17999.0,2020,119000.0,diesel,automatica,122,coches.net,berlina
+kia,stonic,17990.0,2024,16699.0,gasolina,manual,84,coches.net,utilitario
+kia,stonic,15900.0,2021,38800.0,hibrido,manual,100,coches.net,utilitario
+renault,clio,11750.0,2020,111999.0,gasolina,manual,100,coches.net,berlina
+mg,ehs,18490.0,2022,55975.0,hibrido,automatica,258,coches.net,utilitario
+seat,ibiza,13490.0,2022,115580.0,gasolina,manual,110,coches.net,berlina
+seat,arona,18900.0,2025,14025.0,gasolina,manual,115,coches.net,utilitario
+citroen,c3,11950.0,2023,68561.0,gasolina,manual,110,coches.net,berlina
+dacia,sandero,16499.0,2024,19862.0,gasolina,manual,110,coches.net,berlina
+opel,insignia,15900.0,2021,44000.0,diesel,manual,122,coches.net,berlina
+dacia,duster,15990.0,2021,36500.0,gasolina,manual,90,coches.net,utilitario
+peugeot,308,17498.0,2023,19429.0,gasolina,automatica,130,coches.net,berlina
+seat,arona,18490.0,2024,18602.0,gasolina,manual,115,coches.net,utilitario
+kia,picanto,16980.0,2026,9.0,gasolina,manual,68,coches.net,berlina
+kia,stonic,18990.0,2022,62887.0,hibrido,manual,100,coches.net,utilitario
+ford,puma,18200.0,2023,61558.0,hibrido,manual,125,coches.net,utilitario
+opel,corsa,18900.0,2025,8000.0,hibrido,automatica,110,coches.net,berlina
+renault,clio,19400.0,2024,12.0,diesel,manual,100,coches.net,berlina
+nissan,qashqai,19800.0,2021,88000.0,hibrido,manual,140,coches.net,utilitario
+seat,ibiza,17150.0,2025,34448.0,gasolina,manual,95,coches.net,berlina
+peugeot,208,10999.0,2020,45953.0,gasolina,manual,75,coches.net,berlina
+hyundai,i30,18790.0,2024,24791.0,gasolina,manual,120,coches.net,berlina
+citroen,c5 aircross,19990.0,2024,31913.0,gasolina,manual,131,coches.net,utilitario
+smart,forfour,11950.0,2020,24608.0,electrico,automatica,82,coches.net,berlina
+toyota,yaris,16300.0,2020,45618.0,hibrido,automatica,100,coches.net,berlina
+kia,ceed,13990.0,2021,80160.0,gasolina,manual,120,coches.net,berlina
+kia,ceed,18985.0,2024,19998.0,gasolina,manual,100,coches.net,berlina
+skoda,scala,15500.0,2022,74228.0,gasolina,manual,110,coches.net,berlina
+fiat,500,12900.0,2022,59999.0,hibrido,manual,70,coches.net,berlina
+toyota,yaris,15990.0,2020,78379.0,hibrido,automatica,116,coches.net,berlina
+opel,corsa,11600.0,2023,72577.0,gasolina,manual,100,coches.net,berlina
+seat,ibiza,16990.0,2025,16000.0,gasolina,manual,115,coches.net,berlina
+opel,corsa,13500.0,2024,37831.0,gasolina,manual,100,coches.net,berlina
+leapmotor,t03,16990.0,2025,9626.0,electrico,automatica,95,coches.net,berlina
+seat,ibiza,18880.0,2025,8900.0,gasolina,manual,115,coches.net,berlina
+seat,ibiza,18890.0,2025,8599.0,gasolina,manual,115,coches.net,berlina
+opel,astra,11540.0,2021,101129.0,gasolina,manual,130,coches.net,berlina
+dacia,sandero,16850.0,2025,13829.0,gas,manual,101,coches.net,berlina
+jeep,renegade,18200.0,2021,54990.0,gasolina,automatica,150,coches.net,utilitario
+bmw,serie 1,18900.0,2020,78266.0,gasolina,manual,140,coches.net,berlina
+hyundai,bayon,16900.0,2023,18300.0,gasolina,manual,84,coches.net,utilitario
+volkswagen,polo,18850.0,2023,66426.0,gasolina,manual,95,coches.net,berlina
+smart,fortwo,17490.0,2023,26175.0,electrico,automatica,82,coches.net,berlina
+dacia,sandero,13500.0,2022,50000.0,gasolina,manual,91,coches.net,berlina
+mitsubishi,colt,19900.0,2024,1956.0,hibrido,automatica,143,coches.net,berlina
+opel,mokka,17190.0,2023,34555.0,gasolina,automatica,130,coches.net,utilitario
+fiat,500,11599.0,2021,45547.0,hibrido,manual,70,coches.net,berlina
+opel,astra,11490.0,2021,105707.0,gasolina,manual,130,coches.net,berlina
+opel,astra,13510.0,2021,47012.0,gasolina,manual,110,coches.net,berlina
+peugeot,2008,17700.0,2023,80484.0,gasolina,automatica,130,coches.net,utilitario
+ford,focus,16999.0,2023,64024.0,hibrido,manual,125,coches.net,berlina
+nissan,juke,18550.0,2023,51396.0,gasolina,manual,114,coches.net,utilitario
+citroen,c4 spacetourer,15900.0,2020,70000.0,diesel,manual,130,coches.net,utilitario
+renault,captur,18990.0,2023,40500.0,hibrido,automatica,145,coches.net,utilitario
+mazda,mazda2,15850.0,2023,78000.0,hibrido,automatica,116,coches.net,berlina
+renault,clio,19400.0,2024,10.0,diesel,manual,100,coches.net,berlina
+kia,stonic,15000.0,2023,24906.0,hibrido,manual,100,coches.net,utilitario
+hyundai,kona,18500.0,2020,37135.0,electrico,automatica,204,coches.net,utilitario
+ford,puma,18100.0,2021,40664.0,hibrido,manual,125,coches.net,utilitario
+renault,captur,13499.0,2021,113580.0,diesel,manual,115,coches.net,utilitario
+volkswagen,polo,13990.0,2021,90903.0,gasolina,manual,95,coches.net,berlina
+nissan,juke,17990.0,2023,45613.0,gasolina,manual,114,coches.net,utilitario
+citroen,c3,12900.0,2021,33000.0,gasolina,manual,110,coches.net,berlina
+hyundai,i20,12990.0,2020,34564.0,gasolina,manual,100,coches.net,berlina
+hyundai,i20,13690.0,2022,58562.0,gasolina,manual,84,coches.net,berlina
+citroen,berlingo,14990.0,2022,99000.0,diesel,manual,102,coches.net,utilitario
+ford,focus,17990.0,2023,85896.0,hibrido,manual,155,coches.net,berlina
+suzuki,swift,17450.0,2025,30335.0,hibrido,manual,83,coches.net,berlina
+opel,corsa,13650.0,2024,41106.0,gasolina,manual,100,coches.net,berlina
+citroen,c3 aircross,14450.0,2021,51498.0,gasolina,automatica,131,coches.net,utilitario
+jeep,renegade,19790.0,2023,69722.0,hibrido,automatica,130,coches.net,utilitario
+toyota,yaris,17995.0,2023,63000.0,hibrido,automatica,116,coches.net,berlina
+volkswagen,t-cross,18500.0,2021,60364.0,gasolina,automatica,110,coches.net,utilitario
+citroen,c3,10200.0,2021,89000.0,diesel,manual,102,coches.net,berlina
+toyota,yaris,17300.0,2021,72342.0,hibrido,automatica,116,coches.net,berlina
+fiat,500,19990.0,2026,5.0,hibrido,manual,65,coches.net,berlina
+kia,niro,15799.0,2020,105224.0,hibrido,automatica,141,coches.net,berlina
+ford,focus,17799.0,2023,80307.0,hibrido,manual,155,coches.net,berlina
+citroen,berlingo,17200.0,2023,33648.0,diesel,manual,102,coches.net,utilitario
+mazda,cx-3,18999.0,2022,74783.0,gasolina,automatica,121,coches.net,utilitario
+peugeot,5008,16399.0,2020,92129.0,gasolina,automatica,130,coches.net,utilitario
+toyota,corolla,19990.0,2022,58000.0,hibrido,automatica,122,coches.net,berlina
+opel,astra,16480.0,2023,23105.0,gasolina,manual,130,coches.net,berlina
+opel,astra,15490.0,2023,41692.0,gasolina,manual,130,coches.net,berlina
+volkswagen,t-cross,17890.0,2023,58541.0,gasolina,manual,95,coches.net,utilitario
+peugeot,308,15990.0,2022,47645.0,gasolina,manual,130,coches.net,berlina
+renault,clio,16200.0,2025,35350.0,gasolina,manual,90,coches.net,berlina
